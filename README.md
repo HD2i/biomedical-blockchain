@@ -8,8 +8,8 @@ This is a document containing all known medical blockchain companies, blah blah 
 
 
 
- Logo | Name | Website | Code  | Whitepaper |Token    | Location|
- -----|------|---------|-------|------------|---------|---------|
+ Website | Name | Code  | Whitepaper |Token    | Location|
+ --------|------|-------|------------|---------|---------|
 [<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com)| [Ambrosus](##Ambrosus) | [Link](http://www.ambrosus.com) | [Github](https://github.com/ambrosus) | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf) | ERC20 | Zug, Switzerland 
 [<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | Arna Panacea| [Link](https://token.arnagenomics.com) | N/A | [Link](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf) | ERC20 | Russia
 [<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | AMChart | [Link](http://www.amchart.io) | [Github](https://github.com/amchart) | [Link](http://amchart.io/white-paper/) | ERC20 | Austin, Texas 
