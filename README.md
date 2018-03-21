@@ -16,6 +16,7 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | [Github](https://github.com/beat-its) | [Link](https://beat.org/beat_whitepaper.pdf) | ERC20 | Hamburg, Germany
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | [Github](https://github.com/bitmark-inc) | [Link](https://bitmark.com/resources/white-papers) | None | Taipei, Danang, LA, Reykjavik
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | [Github](https://github.com/beat-its) | [Link](https://beat.org/beat_whitepaper.pdf) | ERC20 | Hamburg, Germany
+[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | [Github](https://github.com/blockmedx) | [Link](https://www.blockmedx.com/doc/BlockMedxWhitepaper.pdf) | ERC20 | Lexington, KY
 
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
 
@@ -96,7 +97,7 @@ Safekeep your data and allows you to share it with sports sponsors, talent scout
  
  ## Bitmark 
 
-https://bitmark.com/assets/img/logo-header.svg" width="200">](https://bitmark.com)
+[<img src="https://bitmark.com/assets/img/logo-header.svg" width="200">](https://bitmark.com)
 
 A universal system for crypto property rights.
 
@@ -107,6 +108,22 @@ A universal system for crypto property rights.
  Public code   | [Github](https://github.com/bitmark-inc) 
  Partnerships  |
  Token         | None
+ White Paper.  | [Link](https://bitmark.com/resources/white-papers)
+ ___
+ 
+ ## BlockMedx 
+
+[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="200">](https://www.blockmedx.com/)
+
+HIPAA-compliant, end-to-end solution for transmitting DEA Controlled Drug prescriptions.
+
+   Details     |  -
+------------   | -------------
+ Location      | Lexington, KY
+ Money raised  | 
+ Public code   | [Github](https://github.com/blockmedx) 
+ Partnerships  |
+ Token         | ERC20
  White Paper.  | [Link](https://bitmark.com/resources/white-papers)
  ___
  
