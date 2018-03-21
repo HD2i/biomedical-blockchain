@@ -13,7 +13,7 @@ This is a document containing all known medical blockchain companies, blah blah 
 [<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com)| [Ambrosus](##Ambrosus) | [Github](https://github.com/ambrosus) | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf) | ERC20 | Zug, Switzerland 
 [<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](##Arna Panacea) | N/A | [Link](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf) | ERC20 | Russia
 [<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](##AMChart) | [Github](https://github.com/amchart) | [Link](http://amchart.io/white-paper/) | ERC20 | Austin, Texas 
-[<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](## doc.ai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
+[<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](##doc.ai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
 
 ___
 
