@@ -1,6 +1,6 @@
 # Biomedical Blockchain Initiatives
 
-There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. This repository is an attempt to organize and document the biomedical blockchain space. It was assembled by the team at the [Health Data and Design Innovation Center](hd2i.org) at the [Icahn School of Medicine at Mount Sinai](http://icahn.mssm.edu), based off [XXXX], [YYYY] and [ZZZZ]. If you know of a company that should be on this list, pull requests are welcome!
+There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. This repository is an attempt to organize and document the biomedical blockchain space. It was assembled by the team at the [Health Data and Design Innovation Center](http://hd2i.org) at the [Icahn School of Medicine at Mount Sinai](http://icahn.mssm.edu), based off [XXXX], [YYYY] and [ZZZZ]. If you know of a company that should be on this list, pull requests are welcome!
 
  ___
 
