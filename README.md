@@ -15,8 +15,8 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 [<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | [Github](https://github.com/amchart) | [Link](http://amchart.io/white-paper/) | ERC20 | Austin, Texas 
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | [Github](https://github.com/beat-its) | [Link](https://beat.org/beat_whitepaper.pdf) | ERC20 | Hamburg, Germany
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | [Github](https://github.com/bitmark-inc) | [Link](https://bitmark.com/resources/white-papers) | None | Taipei, Danang, LA, Reykjavik
-[<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | [Github](https://github.com/beat-its) | [Link](https://beat.org/beat_whitepaper.pdf) | ERC20 | Hamburg, Germany
 [<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | [Github](https://github.com/blockmedx) | [Link](https://www.blockmedx.com/doc/BlockMedxWhitepaper.pdf) | ERC20 | Lexington, KY
+[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | None | [Link](https://www.blockrx.com/white-paper/) | ??? | Philadelphia, PA
 
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
 
@@ -127,6 +127,24 @@ HIPAA-compliant, end-to-end solution for transmitting DEA Controlled Drug prescr
  White Paper.  | [Link](https://bitmark.com/resources/white-papers)
  ___
  
+ 
+  ## BlockRx 
+
+[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="200">](https://www.blockrx.com)
+
+HIPAA-compliant, end-to-end solution for transmitting DEA Controlled Drug prescriptions.
+
+   Details     |  -
+------------   | -------------
+ Location      | Philadelphia, PA
+ Money raised  | 
+ Public code   | None 
+ Partnerships  |
+ Token         | ???
+ White Paper.  | [Link](https://www.blockrx.com/white-paper/)
+ ___
+
+
 
 
 ## doc.ai
