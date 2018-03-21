@@ -17,6 +17,8 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | [Github](https://github.com/bitmark-inc) | [Link](https://bitmark.com/resources/white-papers) | None | Taipei, Danang, LA, Reykjavik
 [<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | [Github](https://github.com/blockmedx) | [Link](https://www.blockmedx.com/doc/BlockMedxWhitepaper.pdf) | ERC20 | Lexington, KY
 [<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | None | [Link](https://www.blockrx.com/white-paper/) | ??? | Philadelphia, PA
+[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | [Github](https://github.com/bowhead) | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU) | ERC20 | Singapore
+[<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | [Github](https://github.com/BurstIQ) | [Link](https://www.burstiq.com/wp-content/uploads/2017/09/BurstIQ-whitepaper_07Sep2017.pdf) | ??? | Denver, CO
 
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
 
@@ -144,6 +146,39 @@ HIPAA-compliant, end-to-end solution for transmitting DEA Controlled Drug prescr
  White Paper.  | [Link](https://www.blockrx.com/white-paper/)
  ___
 
+
+## Bowhead Health 
+
+[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="200">](https://bowheadhealth.com)
+
+A platform for personalized wellness. 
+
+   Details     |  -
+------------   | -------------
+ Location      | Singapore
+ Money raised  | 
+ Public code   | [Github](https://github.com/bowhead) 
+ Partnerships  |
+ Token         | ERC20
+ White Paper.  | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU)
+ ___
+
+
+## BurstIQ 
+
+[<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="200">](https://bowheadhealth.com)
+
+A platform and marketplace for health data. 
+
+   Details     |  -
+------------   | -------------
+ Location      | Denver, CO
+ Money raised  | 
+ Public code   | [Github](https://github.com/BurstIQ) 
+ Partnerships  |
+ Token         | ???
+ White Paper.  | [Link](https://www.burstiq.com/wp-content/uploads/2017/09/BurstIQ-whitepaper_07Sep2017.pdf)
+ ___
 
 
 
