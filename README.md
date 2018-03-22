@@ -120,9 +120,9 @@ A blockchain for pharmaceuticals quality control
   Money raised      | $32 M
   Method of Funding | ICO
   Github Profile    | [Github][https://github.com/ambrosus]
-  Dependencies      | Parity
+  Dependencies      | Etheruem, IPFS
   Token             | ERC20
-  White Paper       | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
+  White Paper       | [🗒](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
  ___
  
  
