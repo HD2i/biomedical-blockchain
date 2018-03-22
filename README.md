@@ -20,6 +20,12 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 [<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | [Github](https://github.com/bowhead) | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU) | ERC20 | Singapore
 [<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | [Github](https://github.com/BurstIQ) | [Link](https://www.burstiq.com/wp-content/uploads/2017/09/BurstIQ-whitepaper_07Sep2017.pdf) | ??? | Denver, CO
 [<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
+[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carex.tech) | [CareX](#carex) | [Github](https://github.com/CareXTech) | [Link](https://carex.tech/docs/whitepaper.pdf) | ERC20 | Houston, TX
+
+[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
+[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
+
+
 
 
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
@@ -199,10 +205,23 @@ A peer-2-peer platform that brings nurses and individuals in need of care manage
  White Paper.  | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf)
  ___
  
+## Care4Me 
 
+[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="200">](https://carefourme.com)
 
+A peer-2-peer platform that brings nurses and individuals in need of care management services together 
 
+   Details     |  -
+------------   | -------------
+ Location      | ???
+ Money raised  | 
+ Public code   | [Github](https://github.com/Care4Me) 
+ Partnerships  |
+ Token         | ERC20
+ White Paper.  | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf)
+ ___
 
+A Healthcare Marketplace on the Blockchain that increases trust, transparency and affordability for consumers and healthcare providers.
 
 
 ## doc.ai
