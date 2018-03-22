@@ -21,9 +21,8 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 [<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | [Github](https://github.com/BurstIQ) | [Link](https://www.burstiq.com/wp-content/uploads/2017/09/BurstIQ-whitepaper_07Sep2017.pdf) | ??? | Denver, CO
 [<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
 [<img src="https://carex.tech/assets/images/logo.png" width="50">](https://carex.tech) | [CareX](#carex) | [Github](https://github.com/CareXTech) | [Link](https://carex.tech/docs/whitepaper.pdf) | ERC20 | Houston, TX
+[<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" width="50">](https://citizenhealth.io) | [Citizen Health](#citizenhealth) | [Github](https://github.com/CitizenHealth/) | None | ??? | ???
 
-[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
-[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
 
 
 
@@ -221,8 +220,22 @@ A Healthcare Marketplace on the Blockchain that increases trust, transparency an
  White Paper.  | [Link](https://carex.tech/docs/whitepaper.pdf)
  ___
 
-A Healthcare Marketplace on the Blockchain that increases trust, transparency and affordability for consumers and healthcare providers.
 
+## Citizen Health 
+
+[<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" width="200">](https://citizenhealth.io)
+
+An open health economy 
+
+   Details     |  -
+------------   | -------------
+ Location      | ???
+ Money raised  | 
+ Public code   | [Github](https://github.com/CitizenHealth/)
+ Partnerships  |
+ Token         | ???
+ White Paper.  | None
+ ___
 
 
 
