@@ -79,7 +79,7 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 [<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | - | [📃][ambrosus-ts]
 [<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | - | - | -
 [<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | - | ??? 
-[<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | N/A | N/A | v
+[<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | -| - | -
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [Github](https://github.com/bitmark-inc) | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
 [<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | - | [💻][blockmedx-demo-site] | - 
 
@@ -94,10 +94,11 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 
 [ambrosus-site]:        http://ambrosus.com
 [ambrosus-code]:        https://github.com/ambrosus
-[ambrosus-github]:      https://github.com/ambrosus
 [ambrosus-ts]:          https://ambrosus.com/#tech-docs
+[ambrosus-wp]:          https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf
 
 [amchart-code]:         https://github.com/amchart
+[amchart-wp]:           http://amchart.io/white-paper/
 
 [bitmark-demo-site]:    https://account.bitmark.com
 [bitmark-demo-app]:     https://bitmark.com/tools-api/data-donation-app
@@ -119,16 +120,12 @@ A blockchain for pharmaceuticals quality control
   Location          | Zug, Switzerland 
   Money raised      | $32 M
   Method of Funding | ICO
-  Github Profile    | [Github][https://github.com/ambrosus]
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][ambrosus-code]
   Dependencies      | Etheruem, IPFS
   Token             | ERC20
-  White Paper       | [🗒](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
+  White Paper       | [🗒][ambrosus-wp]
  
 
-|  -   | Location | Money Raised  | Method of Funding   | Github Profile | Dependencies | Token  | Whitepaper |
-:-----:|:--------:|:-------------:|:-------------------:|:--------------:|:------------:|:------:|:----------:|
-   -   | Zug, Switzerland | $32 M |  ICO.               |[<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code]| Ethereum, IPFS | ERC20 | [🗒](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
- 
  ___
  
  
@@ -142,17 +139,18 @@ EHR solution which combines secure record keeping, incentive based wellness app,
 
 A patient driven EHR on a hybrid public/private blockchain with AI for analytics and an incentive drive model for better outcomes.
 
+  Details           |  -
+------------        | -------------
+  Location          | Austin, Texas
+  Money raised      | ?
+  Method of Funding | ?
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][amchart-code]
+  Dependencies      | ?
+  Token             | ERC20
+  White Paper       | [🗒][amchart-wp]
+  
 
-   Details     |  -
-------------   | -------------
-  Location     |  Austin, Texas 
-  Money raised | ?
- Public code   | [Github](https://github.com/amchart)
- Partnerships  | ?
- Token         | ERC20
- White Paper   | [Link](http://amchart.io/white-paper/)
- ___
-
+  
 
 ## Arna Panacea
 
