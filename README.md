@@ -42,14 +42,14 @@ To make an entry into the table, where each column is separated by `|`:
 * **Category**:  `INSERT CATEGORY TEXT HERE`
 * **Code**: 
   * **If Yes**:  `[<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](INSERT THEIR GITHUB URL HERE)`
-  * **If No**: `None`
+  * **If No**: `N/A`
 * **Demo**:
   * **If Yes and demo is a website**: `[💻][NAME-demo-site ]`
   * **If Yes and demo is a mobile app**: `[📱][NAME-demo-app ]`
-  * **If No**: `None`
+  * **If No**: `N/A`
 * **Technical Specifications (TS)**: 
   * **If Yes**: `[📃][NAME-ts)`
-  * **If No**: `None`
+  * **If No**: `N/A`
 * **Technical Specifications (TS)**: `INSERT LOCATION HERE`
 
 At the end of the table, add the references, if they exist:
@@ -76,12 +76,12 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 
   Site   | Name | Category  | Location   | Code | Demo | TS  |
  --------|------|-----------|------------|------|------|-----|
-[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None | [📃][ambrosus-ts]
-[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | None | None | None
-[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | None | ??? | ?
-[<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | None | None | None
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | N/A | [📃][ambrosus-ts]
+[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | N/A | N/A | N/A
+[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | N/A | ??? | ?
+[<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | N/A | N/A | v
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [Github](https://github.com/bitmark-inc) | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
-[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | None | [💻][blockmedx-demo-site] | None 
+[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | N/A | [💻][blockmedx-demo-site] | N/A 
 
 [<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | None | [Link](https://www.blockrx.com/white-paper/) | ??? | Philadelphia, PA
 [<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | [Github](https://github.com/bowhead) | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU) | ERC20 | Singapore
@@ -89,16 +89,12 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 [<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
 [<img src="https://carex.tech/assets/images/logo.png" width="50">](https://carex.tech) | [CareX](#carex) | [Github](https://github.com/CareXTech) | [Link](https://carex.tech/docs/whitepaper.pdf) | ERC20 | Houston, TX
 [<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" width="50">](https://citizenhealth.io) | [Citizen Health](#citizenhealth) | [Github](https://github.com/CitizenHealth/) | None | ??? | ???
-
-
-
-
-
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
 
 
 [ambrosus-site]:        http://ambrosus.com
 [ambrosus-code]:        https://github.com/ambrosus
+[ambrosus-github]:      https://github.com/ambrosus
 [ambrosus-ts]:          https://ambrosus.com/#tech-docs
 
 [amchart-code]:         https://github.com/amchart
@@ -113,19 +109,20 @@ ___
 
 ## Ambrosus
 
-[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="200">](http://www.ambrosus.com) 
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="200">][ambrosus-site]
 
 A blockchain for pharmaceuticals quality control
  
 
-   Details     |  -
-------------   | -------------
-  Location     | Zug, Switzerland 
-  Money raised | $32 M
- Public code   | [Github](https://github.com/ambrosus)
- Partnerships  | Parity
- Token         | ERC20
- White Paper   | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
+   Details          |  -
+------------        | -------------
+  Location          | Zug, Switzerland 
+  Money raised      | $32 M
+  Method of Funding | ICO
+  Github Profile    | [Github][https://github.com/ambrosus]
+  Dependencies      | Parity
+  Token             | ERC20
+  White Paper       | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
  ___
  
  
