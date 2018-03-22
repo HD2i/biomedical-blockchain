@@ -39,7 +39,7 @@ A description of the headers for the table is shown below:
 
 
   Site   | Name | Category  | Location   | Code | Demo | TS  |
- --------|------|-----------|------------|:----:|:----:|:---:|
+ :------:|:----:|:---------:|:----------:|:----:|:----:|:---:|
 [<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | - | [📃][ambrosus-ts]
 [<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | - | - | -
 [<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | - | ??? 
@@ -80,8 +80,8 @@ ___
 A blockchain for pharmaceuticals quality control
  
 
-   Details          |  -
-------------        | -------------
+|   Details          |  -            |
+|:------------------:|:-------------:|
   Location          | Zug, Switzerland 
   Money raised      | $32 M
   Method of Funding | ICO
