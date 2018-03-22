@@ -42,14 +42,14 @@ To make an entry into the table, where each column is separated by `|`:
 * **Category**:  `INSERT CATEGORY TEXT HERE`
 * **Code**: 
   * **If Yes**:  `[<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](INSERT THEIR GITHUB URL HERE)`
-  * **If No**: `N/A`
+  * **If No**: `-`
 * **Demo**:
   * **If Yes and demo is a website**: `[💻][NAME-demo-site ]`
   * **If Yes and demo is a mobile app**: `[📱][NAME-demo-app ]`
-  * **If No**: `N/A`
+  * **If No**: `-`
 * **Technical Specifications (TS)**: 
   * **If Yes**: `[📃][NAME-ts)`
-  * **If No**: `N/A`
+  * **If No**: `-`
 * **Technical Specifications (TS)**: `INSERT LOCATION HERE`
 
 At the end of the table, add the references, if they exist:
@@ -75,13 +75,13 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 
 
   Site   | Name | Category  | Location   | Code | Demo | TS  |
- --------|------|-----------|------------|------|------|-----|
-[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | N/A | [📃][ambrosus-ts]
-[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | N/A | N/A | N/A
-[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | N/A | ??? | ?
+ --------|------|-----------|------------|:----:|:----:|:---:|
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | - | [📃][ambrosus-ts]
+[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | - | - | -
+[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | - | ??? 
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | N/A | N/A | v
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [Github](https://github.com/bitmark-inc) | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
-[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | N/A | [💻][blockmedx-demo-site] | N/A 
+[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | - | [💻][blockmedx-demo-site] | - 
 
 [<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | None | [Link](https://www.blockrx.com/white-paper/) | ??? | Philadelphia, PA
 [<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | [Github](https://github.com/bowhead) | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU) | ERC20 | Singapore
