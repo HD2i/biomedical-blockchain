@@ -6,14 +6,81 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 
 ## TOC
 
+A description of the headers for the table is shown below:
+
+* **Website**: Logo and link to their website.
+
+* **Name**: Name of the blockchain project/company. Internal link to more information about the company.
+
+* **Category**: This is the general category of the blockchain company which include:
+  * **Directly Health Related**
+    * Auditing of Supply Chain/ Logistics (Pharmacy, medications, etc.)
+    * Marketplace (Health Data)
+    * Ownership (Health Records/EHR)
+    * Interoperability (Health Records)
+    * Stakeholder Alignment through incentivization (Payers, Insurers, patients, etc.)
+  * **Applicable to Healthcare**
+    * General Marketplace
+    * General Ownership
+    
+* **Code**: Do they have publicly available and non-trivial open-source code (i.e. trivial including: white papers, tokens/token sales, not road maps, only a fork with no additional work)?
+  * <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="20"> : A link to their github that contains this
+ 
+* **Demo**: Do they have a public demo or working product that is available? (This does not include private betas)
+  * 💻 : A link to their demo if a website 
+  * 📱 : A link to thier demo if an app
+  
+* **Technical Specifications (TS)**: Do they have a public technical whitepaper or technical specifications for their implementation of blockchain? (A non-technical implementation does not count)
+  * 📃 : A link to their technical whitpaper
+  
+
+## New Entry
+To make an entry into the table, where each column is separated by `|`:
+
+* **Site**: ` [<img src="INSERT URL FOR LOGO" width="50">](INSERT WEBSITE URL)`
+* **Name**:  `  [INSERT NAME HERE](#INSERT LOWERCASED NAME HERE) `
+* **Category**:  `INSERT CATEGORY TEXT HERE`
+* **Code**: 
+  * **If Yes**:  `[<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](INSERT THEIR GITHUB URL HERE)`
+  * **If No**: `None`
+* **Demo**:
+  * **If Yes and demo is a website**: `[💻][NAME-demo-site ]`
+  * **If Yes and demo is a mobile app**: `[📱][NAME-demo-app ]`
+  * **If No**: `None`
+* **Technical Specifications (TS)**: 
+  * **If Yes**: `[📃][NAME-ts)`
+  * **If No**: `None`
+* **Technical Specifications (TS)**: `INSERT LOCATION HERE`
+
+At the end of the table, add the references, if they exist:
+```[NAME-SECTION]: INSERT URL HERE```
+
+For sections that you are unsure about  unknown, enter ? in the field
+
+An example of an entry in the table:
+
+``` 
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/
+assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | 
+Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/
+images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
+[📃][ambrosus-ts]
 
 
- Website | Name | Code  | Whitepaper |Token    | Location|
- --------|------|-------|------------|---------|---------|
-[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com)| [Ambrosus](#ambrosus) | [Github](https://github.com/ambrosus) | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf) | ERC20 | Zug, Switzerland 
-[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | [Github](https://github.com/arnagenomics) | [Link](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf) | ERC20 | Russia
-[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | [Github](https://github.com/amchart) | [Link](http://amchart.io/white-paper/) | ERC20 | Austin, Texas 
-[<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | [Github](https://github.com/beat-its) | [Link](https://beat.org/beat_whitepaper.pdf) | ERC20 | Hamburg, Germany
+[ambrosus-code]: https://github.com/ambrosus
+[ambrosus-ts]:   https://ambrosus.com/#tech-docs 
+```
+
+## Summary
+
+
+  Site   | Name | Category  | Location   | Code | Demo | TS  |
+ --------|------|-----------|------------|------|------|-----|
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None | [📃][ambrosus-ts]
+[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | None | None | None
+[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | None | ??? | ?
+[<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | None | None | None
+[<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [Github](https://github.com/bitmark-inc) | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | [Github](https://github.com/bitmark-inc) | [Link](https://bitmark.com/resources/white-papers) | None | Taipei, Danang, LA, Reykjavik
 [<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | [Github](https://github.com/blockmedx) | [Link](https://www.blockmedx.com/doc/BlockMedxWhitepaper.pdf) | ERC20 | Lexington, KY
 [<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | None | [Link](https://www.blockrx.com/white-paper/) | ??? | Philadelphia, PA
@@ -28,6 +95,24 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 
 
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
+
+
+[ambrosus-site]:     http://ambrosus.com
+[ambrosus-code]:     https://github.com/ambrosus
+[ambrosus-ts]:       https://ambrosus.com/#tech-docs
+
+[amchart-code]:      https://github.com/amchart
+
+[bitmark-demo-site]: https://account.bitmark.com
+[bitmark-demo-app]:  https://bitmark.com/tools-api/data-donation-app
+[bitmark-ts]:        https://bitmark.com/assets/bitmark_technical-white-paper.pdf
+
+
+
+ Website | Name | Code  | Whitepaper |Token    | Location|
+ --------|------|-------|------------|---------|---------|
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com)| [Ambrosus](#ambrosus) | [Github](https://github.com/ambrosus) | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf) | ERC20 | Zug, Switzerland 
+[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | [Github](https://github.com/arnagenomics) | [Link](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf) | ERC20 | Russia
 
 
 ___
