@@ -85,7 +85,7 @@ A blockchain for pharmaceuticals quality control
   Location          | Zug, Switzerland 
   Money raised      | $32 M
   Method of Funding | ICO
-  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][ambrosus-code]
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code]
   Dependencies      | Etheruem, IPFS
   Token             | ERC20
   White Paper       | [🗒][ambrosus-wp]
@@ -109,7 +109,7 @@ A patient driven EHR on a hybrid public/private blockchain with AI for analytics
   Location          | Austin, Texas
   Money raised      | ?
   Method of Funding | ?
-  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][amchart-code]
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code]
   Dependencies      | ?
   Token             | ERC20
   White Paper       | [🗒][amchart-wp]
