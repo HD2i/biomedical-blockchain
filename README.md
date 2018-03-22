@@ -124,8 +124,8 @@ A blockchain for pharmaceuticals quality control
   Token             | ERC20
   White Paper       | [🗒](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
  
- 
-   -   | Location | Money Raised  | Method of Funding   | Github Profile | Dependencies | Token  | Whitepaper |
+
+|  -   | Location | Money Raised  | Method of Funding   | Github Profile | Dependencies | Token  | Whitepaper |
 :-----:|:--------:|:-------------:|:-------------------:|:--------------:|:------------:|:------:|:----------:|
    -   | Zug, Switzerland | $32 M |  ICO.               |[<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code]| Ethereum, IPFS | ERC20 | [🗒](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
  
