@@ -81,8 +81,8 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 [<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | None | ??? | ?
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | None | None | None
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [Github](https://github.com/bitmark-inc) | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
-[<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | [Github](https://github.com/bitmark-inc) | [Link](https://bitmark.com/resources/white-papers) | None | Taipei, Danang, LA, Reykjavik
-[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | [Github](https://github.com/blockmedx) | [Link](https://www.blockmedx.com/doc/BlockMedxWhitepaper.pdf) | ERC20 | Lexington, KY
+[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | None | [💻][blockmedx-demo-site] | None 
+
 [<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | None | [Link](https://www.blockrx.com/white-paper/) | ??? | Philadelphia, PA
 [<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | [Github](https://github.com/bowhead) | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU) | ERC20 | Singapore
 [<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | [Github](https://github.com/BurstIQ) | [Link](https://www.burstiq.com/wp-content/uploads/2017/09/BurstIQ-whitepaper_07Sep2017.pdf) | ??? | Denver, CO
@@ -97,22 +97,16 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
 
 
-[ambrosus-site]:     http://ambrosus.com
-[ambrosus-code]:     https://github.com/ambrosus
-[ambrosus-ts]:       https://ambrosus.com/#tech-docs
+[ambrosus-site]:        http://ambrosus.com
+[ambrosus-code]:        https://github.com/ambrosus
+[ambrosus-ts]:          https://ambrosus.com/#tech-docs
 
-[amchart-code]:      https://github.com/amchart
+[amchart-code]:         https://github.com/amchart
 
-[bitmark-demo-site]: https://account.bitmark.com
-[bitmark-demo-app]:  https://bitmark.com/tools-api/data-donation-app
-[bitmark-ts]:        https://bitmark.com/assets/bitmark_technical-white-paper.pdf
-
-
-
- Website | Name | Code  | Whitepaper |Token    | Location|
- --------|------|-------|------------|---------|---------|
-[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com)| [Ambrosus](#ambrosus) | [Github](https://github.com/ambrosus) | [Link](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf) | ERC20 | Zug, Switzerland 
-[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | [Github](https://github.com/arnagenomics) | [Link](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf) | ERC20 | Russia
+[bitmark-demo-site]:    https://account.bitmark.com
+[bitmark-demo-app]:     https://bitmark.com/tools-api/data-donation-app
+[bitmark-ts]:           https://bitmark.com/assets/bitmark_technical-white-paper.pdf
+[blockmedx-demo-site]:  https://www.blockmedx.com/prototype/login.html
 
 
 ___
