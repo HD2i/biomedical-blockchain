@@ -46,14 +46,14 @@ A description of the headers for the table is shown below:
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | -| - | -
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][bitmark-code] | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
 [<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | - | [💻][blockmedx-demo-site] | - 
+[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | - | Philadelphia, PA | - | [💻][-] | - 
+[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | - | Singapore | - | [💻][-] | - 
 
-[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | None | [Link](https://www.blockrx.com/white-paper/) | ??? | Philadelphia, PA
-[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | [Github](https://github.com/bowhead) | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU) | ERC20 | Singapore
-[<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | [Github](https://github.com/BurstIQ) | [Link](https://www.burstiq.com/wp-content/uploads/2017/09/BurstIQ-whitepaper_07Sep2017.pdf) | ??? | Denver, CO
-[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | [Github](https://github.com/Care4Me) | [Link](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf) | ERC20 | ???
-[<img src="https://carex.tech/assets/images/logo.png" width="50">](https://carex.tech) | [CareX](#carex) | [Github](https://github.com/CareXTech) | [Link](https://carex.tech/docs/whitepaper.pdf) | ERC20 | Houston, TX
-[<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" width="50">](https://citizenhealth.io) | [Citizen Health](#citizenhealth) | [Github](https://github.com/CitizenHealth/) | None | ??? | ???
-[<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | [Github](https://github.com/doc-AI) | [Link](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1521667765526) | ERC20 | Palo Alto, CA
+[<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | - |  Denver, CO |  - | [💻][-] | - 
+[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | - | ??? |  - | [💻][-] | -
+[<img src="https://carex.tech/assets/images/logo.png" width="50">](https://carex.tech) | [CareX](#carex) | - | Houston, TX | - | [💻][-] | - 
+[<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" width="50">](https://citizenhealth.io) | [Citizen Health](#citizenhealth) | - | [💻][-] | - 
+[<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | - | Palo Alto, CA | - | [💻][-] | - 
 
 
 [ambrosus-site]:        http://ambrosus.com
