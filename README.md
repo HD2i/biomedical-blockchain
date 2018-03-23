@@ -79,15 +79,15 @@ ___
 A blockchain for pharmaceuticals quality control
  
 
-|   Details             |  -            |
-|:---------------------:|:-------------:|
-  **Location**          | Zug, Switzerland 
-  **Money raised**      | $32 M
-  **Method of Funding** | ICO
-  **Github Profile**    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code]
-  **Dependencies**      | Etheruem, IPFS
-  **Token**             | ERC20
-  **White Paper**       | [🗒][ambrosus-wp]
+|   Details         |       -       |
+|:-----------------:|:-------------:|
+  Location          | Zug, Switzerland 
+  Money raised      | $32 M
+  Method of Funding | ICO
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code]
+  Dependencies      | Etheruem, IPFS
+  Token             | ERC20
+  White Paper       | [🗒][ambrosus-wp]
  
 
  ___
