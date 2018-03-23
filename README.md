@@ -40,18 +40,18 @@ A description of the headers for the table is shown below:
 
   Site   | Name | Category  | Location   | Code | Demo | TS  |
  :------:|:----:|:---------:|:----------:|:----:|:----:|:---:|
-[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" height="40">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | - | [📃][ambrosus-ts]
-[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" height="40">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | - | - | -
-[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" height="40">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | - | ??? 
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" height="20">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | - | [📃][ambrosus-ts]
+[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" height="20">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | - | - | -
+[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" height="20">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | - | ??? 
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | -| - | -
-[<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][bitmark-code] | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
-[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | - | [💻][blockmedx-demo-site] | - 
-[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" height="40">](https://www.blockrx.com) | [BlockRx](#blockrx) | - | Philadelphia, PA | - | [💻][-] | - 
-[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | - | Singapore | - | [💻][-] | - 
-[<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | - |  Denver, CO |  - | [💻][-] | - 
-[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | - | ??? |  - | [💻][-] | -
-[<img src="https://carex.tech/assets/images/logo.png" width="50">](https://carex.tech) | [CareX](#carex) | - | Houston, TX | - | [💻][-] | - 
-[<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" width="50">](https://citizenhealth.io) | [Citizen Health](#citizenhealth) | - | [💻][-] | - 
+[<img src="https://bitmark.com/assets/img/logo-header.svg" height="20">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][bitmark-code] | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
+[<img src="https://www.blockmedx.com/images/footer_logo.svg" height="20">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | - | [💻][blockmedx-demo-site] | - 
+[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" height="20">](https://www.blockrx.com) | [BlockRx](#blockrx) | - | Philadelphia, PA | - | [💻][-] | - 
+[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" height="20">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | - | Singapore | - | [💻][-] | - 
+[<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" height="20">](https://www.burstiq.com) | [burstIQ](#burstiq) | - |  Denver, CO |  - | [💻][-] | - 
+[<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" height="20">](https://carefourme.com) | [Care4Me](#care4me) | - | ??? |  - | [💻][-] | -
+[<img src="https://carex.tech/assets/images/logo.png" height="20">](https://carex.tech) | [CareX](#carex) | - | Houston, TX | - | [💻][-] | - 
+[<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" height="20">](https://citizenhealth.io) | [Citizen Health](#citizenhealth) | - | [💻][-] | - 
 [<img src="https://doc.ai/images/logo.svg" width="50">](http://www.doc.ai) | [doc.ai](#docai) | - | Palo Alto, CA | - | [💻][-] | - 
 
 
