@@ -46,7 +46,7 @@ A description of the headers for the table is shown below:
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | -| - | -
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="50">](https://bitmark.com) | [Bitmark](#bitmark) | General Ownership | Taipei, Danang, LA, Reykjavik | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][bitmark-code] | [💻][bitmark-demo-site] [📱][bitmark-demo-app] | [📃][bitmark-ts]
 [<img src="https://www.blockmedx.com/images/footer_logo.svg" width="50">](https://www.blockmedx.com/) | [BlockMedx](#blockmedx) | Supply Chain | Lexington, KY | - | [💻][blockmedx-demo-site] | - 
-[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="50">](https://www.blockrx.com) | [BlockRx](#blockrx) | - | Philadelphia, PA | - | [💻][-] | - 
+[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" height="40">](https://www.blockrx.com) | [BlockRx](#blockrx) | - | Philadelphia, PA | - | [💻][-] | - 
 [<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="50">](https://bowheadhealth.com) | [Bowhead Health](#bowheadhealth) | - | Singapore | - | [💻][-] | - 
 [<img src="https://www.burstiq.com/wp-content/uploads/2016/01/burstIQ-logo-retina.png" width="50">](https://www.burstiq.com) | [burstIQ](#burstiq) | - |  Denver, CO |  - | [💻][-] | - 
 [<img src="https://carefourme.com/wp-content/uploads/thegem-logos/logo_e68cad3508180ab819fb9e28801b83b8_2x.png" width="50">](https://carefourme.com) | [Care4Me](#care4me) | - | ??? |  - | [💻][-] | -
