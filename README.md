@@ -40,7 +40,7 @@ A description of the headers for the table is shown below:
 
   Site   | Name | Category  | Location   | Code | Demo | TS  |
  :------:|:----:|:---------:|:----------:|:----:|:----:|:---:|
-[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">](http://www.ambrosus.com) | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | - | [📃][ambrosus-ts]
+[<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="50">][ambrosus-site] | [Ambrosus](#ambrosus) | Auditing/Supply Chain | Zug, Switzerland | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | - | [📃][ambrosus-ts]
 [<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="50">](https://token.arnagenomics.com) | [Arna Panacea](#arnapanacea) | Marketplace | Russia | - | - | -
 [<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="50">](http://www.amchart.io) | [AMChart](#amchart) | Ownership | Austin, Texas | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code] | - | ??? 
 [<img src="https://beat.org/img/logo-light.svg" width="50">](http://www.beat.org) | [Beat](#beat) | Ownership | Hamburg, Germany | -| - | -
@@ -60,9 +60,11 @@ A description of the headers for the table is shown below:
 [ambrosus-ts]:          https://ambrosus.com/#tech-docs
 [ambrosus-wp]:          https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf
 
+[amchart-site]:         http://www.amchart.io 
 [amchart-code]:         https://github.com/amchart
 [amchart-wp]:           http://amchart.io/white-paper/
 
+[arnapanacea-site]:     https://token.arnagenomics.com
 [arnapanacea-code]:     https://github.com/arnagenomics
 [arnapanacea-wp]:       https://token.arnagenomics.com/ARNA_whitepaper_en.pdf
 
@@ -73,7 +75,23 @@ A description of the headers for the table is shown below:
 [bitmark-demo-site]:    https://account.bitmark.com
 [bitmark-demo-app]:     https://bitmark.com/tools-api/data-donation-app
 [bitmark-ts]:           https://bitmark.com/assets/bitmark_technical-white-paper.pdf
+[bitmark-wp]:           https://bitmark.com/resources/white-papers
+
+[blockmedx-site]:       https://www.blockmedx.com
 [blockmedx-demo-site]:  https://www.blockmedx.com/prototype/login.html
+[blockmedx-code]:       https://github.com/blockmedx)
+[blockmedx-wp]:         https://www.blockmedx.com/whitepaper.html
+
+[blockrx-site]:         https://www.blockrx.com
+[blockrx-wp]:           https://www.blockrx.com/white-paper/
+
+[bowheadhealth-site]:   https://bowheadhealth.com
+[bowheadhealth-code]:   https://github.com/bowhead
+[bowheadhealth-wp]:     https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU
+
+
+
+
 
 
 ___
@@ -103,7 +121,7 @@ A blockchain for pharmaceuticals quality control
 ## AMChart
 
 
-[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="200">](http://www.amchart.io) 
+[<img src="https://amchart.io/wp-content/themes/amchart/images/logos/logo.png" width="200">][amchart-site]
     
 EHR solution which combines secure record keeping, incentive based wellness app, and machine learning/AI processes for proactive healthcare management.
 
@@ -125,7 +143,7 @@ A patient driven EHR on a hybrid public/private blockchain with AI for analytics
 
 ## Arna Panacea
 
-[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="200">](https://token.arnagenomics.com) 
+[<img src="https://token.arnagenomics.com/wp-content/uploads/2018/01/logo-min.png" width="200">][arnapanacea-site]
  
 A Blockchain-ecosystem for storing medical and laboratory researches data and also providing access to all parties concerned.
 
@@ -153,10 +171,10 @@ Safekeep your data and allows you to share it with sports sponsors, talent scout
   Location          | Hamburg, Germany 
   Money raised      | ?
   Method of Funding | ?
-  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][arnapanacea-code]
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][beat-code]
   Dependencies      | ?
   Token             | ERC20
-  White Paper       | [🗒][arnapanacea-wp]
+  White Paper       | [🗒][beat-wp]
   
  
  ___
@@ -169,61 +187,56 @@ A universal system for crypto property rights.
 
 |   Details         |       -       |
 |:-----------------:|:-------------:|
-  Location          | Hamburg, Germany 
+  Location          | Taipei, Danang, LA, Reykjavik 
   Money raised      | ?
   Method of Funding | ?
-  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][arnapanacea-code]
-  Dependencies      | ?
-  Token             | ERC20
-  White Paper       | [🗒][arnapanacea-wp]
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][bitmark-code]
+  Dependencies      | 
+  Token             | 
+  White Paper       | [🗒][bitmark-wp]
 
-   Details     |  -
-------------   | -------------
- Location      | Taipei, Danang, LA, Reykjavik
- Money raised  | 
- Public code   | [Github](https://github.com/bitmark-inc) 
- Partnerships  |
- Token         | None
- White Paper.  | [Link](https://bitmark.com/resources/white-papers)
  ___
  
  ## BlockMedx 
 
-[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="200">](https://www.blockmedx.com/)
+[<img src="https://www.blockmedx.com/images/footer_logo.svg" width="200">][blockmedx-site]
 
 HIPAA-compliant, end-to-end solution for transmitting DEA Controlled Drug prescriptions.
 
-   Details     |  -
-------------   | -------------
- Location      | Lexington, KY
- Money raised  | 
- Public code   | [Github](https://github.com/blockmedx) 
- Partnerships  |
- Token         | ERC20
- White Paper.  | [Link](https://bitmark.com/resources/white-papers)
+|   Details         |       -       |
+|:-----------------:|:-------------:|
+ Location           | Lexington, KY
+ Money raised       | 
+ Method of Funding  | ?
+ Github Profile     | [Github][blockmedx-code] 
+ Dependencies       |
+ Token              | ERC20
+ White Paper.       | [🗒][blockmedx-wp]
  ___
  
  
   ## BlockRx 
 
-[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="200">](https://www.blockrx.com)
+[<img src="https://www.blockrx.com/wp-content/uploads/2017/07/mark-2-darker.png" width="200">][blockrx-site]
 
 HIPAA-compliant, end-to-end solution for transmitting DEA Controlled Drug prescriptions.
 
-   Details     |  -
-------------   | -------------
- Location      | Philadelphia, PA
- Money raised  | 
- Public code   | None 
- Partnerships  |
- Token         | ???
- White Paper.  | [Link](https://www.blockrx.com/white-paper/)
+|   Details         |       -       |
+|:-----------------:|:-------------:|
+ Location           | Philadelphia, PA
+ Money raised       | 
+ Method of Funding  | ?
+ Github Profile     | 
+ Dependencies       |
+ Token              | ERC20
+ White Paper.       | 🗒[blockrx-wp]
+
  ___
 
 
 ## Bowhead Health 
 
-[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="200">](https://bowheadhealth.com)
+[<img src="https://bowheadhealth.com/images/uploads/bowhead.png" width="200">][bowheadhealth-site]
 
 A platform for personalized wellness. 
 
@@ -231,7 +244,7 @@ A platform for personalized wellness.
 ------------   | -------------
  Location      | Singapore
  Money raised  | 
- Public code   | [Github](https://github.com/bowhead) 
+ Public code   | [Github][bowheadhealth-code] 
  Partnerships  |
  Token         | ERC20
  White Paper.  | [Link](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU)
