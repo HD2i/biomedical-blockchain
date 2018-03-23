@@ -63,6 +63,9 @@ A description of the headers for the table is shown below:
 [amchart-code]:         https://github.com/amchart
 [amchart-wp]:           http://amchart.io/white-paper/
 
+[arnapanacea-code]:     https://github.com/arnagenomics
+[arnapanacea-wp]:       https://token.arnagenomics.com/ARNA_whitepaper_en.pdf
+
 [bitmark-code]:         https://github.com/bitmark-inc
 [bitmark-demo-site]:    https://account.bitmark.com
 [bitmark-demo-app]:     https://bitmark.com/tools-api/data-donation-app
@@ -81,7 +84,8 @@ A blockchain for pharmaceuticals quality control
 
 |   Details         |       -       |
 |:-----------------:|:-------------:|
-  Location          | Zug, Switzerland 
+  Category          | Auditing/Supply Chain
+  Location          | Zug, Switzerland
   Money raised      | $32 M
   Method of Funding | ICO
   Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code]
@@ -93,7 +97,6 @@ A blockchain for pharmaceuticals quality control
  ___
  
  
- 
 ## AMChart
 
 
@@ -103,9 +106,10 @@ EHR solution which combines secure record keeping, incentive based wellness app,
 
 A patient driven EHR on a hybrid public/private blockchain with AI for analytics and an incentive drive model for better outcomes.
 
-  Details           |  -
-------------        | -------------
-  Location          | Austin, Texas
+|   Details         |       -       |
+|:-----------------:|:-------------:|
+  Category          | Marketplace
+  Location          | Austin, Texas
   Money raised      | ?
   Method of Funding | ?
   Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][amchart-code]
@@ -113,8 +117,8 @@ A patient driven EHR on a hybrid public/private blockchain with AI for analytics
   Token             | ERC20
   White Paper       | [🗒][amchart-wp]
   
+ ___
 
-  
 
 ## Arna Panacea
 
@@ -123,14 +127,16 @@ A patient driven EHR on a hybrid public/private blockchain with AI for analytics
 A Blockchain-ecosystem for storing medical and laboratory researches data and also providing access to all parties concerned.
 
 
-   Details     |  -
-------------   | -------------
-  Location     |  Zug, Switzerland 
-  Money raised | 
- Public code   | [Github](https://github.com/arnagenomics)
- Partnerships  |
- Token         | ERC20
- White Paper.  | [Link](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf)
+|   Details         |       -       |
+|:-----------------:|:-------------:|
+  Location          | Russia
+  Money raised      | ?
+  Method of Funding | ?
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][arnapanacea-code]
+  Dependencies      | ?
+  Token             | ERC20
+  White Paper       | [🗒][arnapanacea-wp]
+ 
  ___
 
 ## Beat 
@@ -139,14 +145,17 @@ A Blockchain-ecosystem for storing medical and laboratory researches data and al
     
 Safekeep your data and allows you to share it with sports sponsors, talent scouts, doctors, insurance companies and many more to unlock the vast potential hidden in your health and fitness data
 
-   Details     |  -
-------------   | -------------
-  Location     |  Hamburg, Germany 
-  Money raised | 
- Public code   | [Github](https://github.com/arnagenomics)
- Partnerships  |
- Token         | ERC20
- White Paper.  | [Link](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf)
+|   Details         |       -       |
+|:-----------------:|:-------------:|
+  Location          | Hamburg, Germany 
+  Money raised      | ?
+  Method of Funding | ?
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][arnapanacea-code]
+  Dependencies      | ?
+  Token             | ERC20
+  White Paper       | [🗒][arnapanacea-wp]
+  
+ 
  ___
  
  ## Bitmark 
@@ -154,6 +163,16 @@ Safekeep your data and allows you to share it with sports sponsors, talent scout
 [<img src="https://bitmark.com/assets/img/logo-header.svg" width="200">](https://bitmark.com)
 
 A universal system for crypto property rights.
+
+|   Details         |       -       |
+|:-----------------:|:-------------:|
+  Location          | Hamburg, Germany 
+  Money raised      | ?
+  Method of Funding | ?
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">][arnapanacea-code]
+  Dependencies      | ?
+  Token             | ERC20
+  White Paper       | [🗒][arnapanacea-wp]
 
    Details     |  -
 ------------   | -------------
