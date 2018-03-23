@@ -34,10 +34,8 @@ images/modules/logos_page/GitHub-Mark.png" width="40">][ambrosus-code] | None |
 [📃][ambrosus-ts]
 
 
-[ambrosus-site]:        http://ambrosus.com
-[ambrosus-code]:        https://github.com/ambrosus
-[ambrosus-ts]:          https://ambrosus.com/#tech-docs
-[ambrosus-wp]:          https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf
+[ambrosus-code]: https://github.com/ambrosus
+[ambrosus-ts]:   https://ambrosus.com/#tech-docs 
 ```
 
 
@@ -55,29 +53,20 @@ Add one sentence objective description:
 
 `INSERT DESCRIPTION HERE`
 
-Add table, fairly self explanatory. If there are multiple white papers, use a url to show all whitepapers.
+Add table, fairly self explanatory:
 
 ```
-   Details          |         -
-|:-----------------:|:------------------:|
+   Details          |         -          |
+:------------------:|:------------------:|
   Location          | INSERT LOCATION HERE 
   Money raised      | INSERT AMOUNT HERE
   Method of Funding | INSERT METHOD HERE
-  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][NAME-code]
-  Dependencies      | LIST DEPENDENCIES IF ANY
-  Token             | INSERT TOKEN TYPE (ERC20, ETC.)
-  White Paper       | [🗒][NAME-wp]
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][ambrosus-code]
+  Dependencies      | Etheruem, IPFS
+  Token             | ERC20
+  White Paper       | [🗒][ambrosus-wp]
 ```
 
-You can then add references to the references from the table:
-
-```[NAME-code]: INSERT URL FOR CODE```
-
-```[NAME-wp]: INSERT URL FOR WHITEPAPER```
-
-An example would be: 
-
-```
 ## Ambrosus
 
 [<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="200">][ambrosus-site]
@@ -85,16 +74,15 @@ An example would be:
 A blockchain for pharmaceuticals quality control
  
 
-     Details        |        -
-:------------------:|:-------------:
-  Location          | Zug, Switzerland 
+   Details          |  -
+------------        | -------------
+    Location        | Zug, Switzerland 
   Money raised      | $32 M
-  Method of Funding | ICO
+ Method of Funding  | ICO
   Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][ambrosus-code]
   Dependencies      | Etheruem, IPFS
-  Token             | ERC20
+     Token          | ERC20
   White Paper       | [🗒][ambrosus-wp]
  
-```
-
-
+ ___
+ ```
