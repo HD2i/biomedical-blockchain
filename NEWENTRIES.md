@@ -47,13 +47,13 @@ Title each section
 
 Add logo:
 
-`[<img src="INSERT LOGO URL HERE" width="200">](INSERT WEBSITE URL)`
+`[<img src="INSERT LOGO URL HERE" width="200">][NAME-site]`
 
 Add one sentence objective description:
 
 `INSERT DESCRIPTION HERE`
 
-Add table, fairly self explanatory:
+Add table, fairly self explanatory. 
 
 ```
    Details          |         -          |
@@ -62,10 +62,18 @@ Add table, fairly self explanatory:
   Location          | INSERT LOCATION HERE 
   Money raised      | INSERT AMOUNT HERE
   Method of Funding | INSERT METHOD HERE
-  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][ambrosus-code]
+  Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][NAME-code]
   Dependencies      | Etheruem, IPFS
   Token             | ERC20
-  White Paper       | [🗒][ambrosus-wp]
+  White Paper       | [🗒][NAME-wp]
+```
+
+For each reference (ex. `[NAME-site]`), add the following to the list of references from the summary table in alphabetical order.
+
+```
+[NAME-site]: INSERT WEBSITE URL
+[NAME-code]: INSERT GITHUB URL
+[NAME-wp]:   INSERT WHITEPAPER URL
 ```
 
 Ending with a horizontal rule: 
