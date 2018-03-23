@@ -66,6 +66,9 @@ A description of the headers for the table is shown below:
 [arnapanacea-code]:     https://github.com/arnagenomics
 [arnapanacea-wp]:       https://token.arnagenomics.com/ARNA_whitepaper_en.pdf
 
+[beat-code]:            https://github.com/beat-its
+[beat-wp]:              https://beat.org/beat_whitepaper.pdf
+
 [bitmark-code]:         https://github.com/bitmark-inc
 [bitmark-demo-site]:    https://account.bitmark.com
 [bitmark-demo-app]:     https://bitmark.com/tools-api/data-donation-app
