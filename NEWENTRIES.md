@@ -58,7 +58,7 @@ Add table, fairly self explanatory:
 ```
    Details          |         -          |
 :------------------:|:------------------:|
-   Category         | INSERT CATEGORY HERE
+  Category          | INSERT CATEGORY HERE
   Location          | INSERT LOCATION HERE 
   Money raised      | INSERT AMOUNT HERE
   Method of Funding | INSERT METHOD HERE
@@ -68,6 +68,14 @@ Add table, fairly self explanatory:
   White Paper       | [🗒][ambrosus-wp]
 ```
 
+Ending with a horizontal rule: 
+
+`___`
+
+
+A full example is :
+
+```
 ## Ambrosus
 
 [<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="200">][ambrosus-site]
