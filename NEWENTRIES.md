@@ -58,6 +58,7 @@ Add table, fairly self explanatory:
 ```
    Details          |         -          |
 :------------------:|:------------------:|
+   Category         | INSERT CATEGORY HERE
   Location          | INSERT LOCATION HERE 
   Money raised      | INSERT AMOUNT HERE
   Method of Funding | INSERT METHOD HERE
@@ -76,7 +77,8 @@ A blockchain for pharmaceuticals quality control
 
    Details          |  -
 ------------        | -------------
-    Location        | Zug, Switzerland 
+    Category        | Auditing/Supply Chain
+    Location        | Zug, Switzerland 
   Money raised      | $32 M
  Method of Funding  | ICO
   Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40"][ambrosus-code]
