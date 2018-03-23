@@ -85,8 +85,8 @@ An example would be:
 A blockchain for pharmaceuticals quality control
  
 
-   Details          |  -
-------------        | -------------
+     Details        |        -
+:------------------:|:-------------:
   Location          | Zug, Switzerland 
   Money raised      | $32 M
   Method of Funding | ICO
@@ -95,7 +95,6 @@ A blockchain for pharmaceuticals quality control
   Token             | ERC20
   White Paper       | [🗒][ambrosus-wp]
  
- ___
- ```
-
 ```
+
+
