@@ -13,7 +13,3 @@ The following summary consists of:
   * 📱 : A link to their demo if an app
 * **Technical Specifications (TS)**: Publicly available technical whitepaper or technical specifications for their implementation of blockchain technology? (A non-technical implementation does not count)
   * 📃 : A link to their technical whitpaper
-
-
-## Summary
-
