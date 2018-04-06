@@ -1,4 +1,4 @@
-# Contributing to Biomedical-Blockchain
+# Contributing to Biomedical Blockchain Initiatives
 
 
 The Biomedical Blockchain Initiatives were initially developed by the Health Data and Design Innovation (HD2i) within the Institute of Next Generation Health (INGH) at Mount Sinai. 
