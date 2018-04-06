@@ -33,6 +33,3 @@ A description of the headers for the table is shown below:
 * **Technical Specifications (TS)**: Do they have a public technical whitepaper or technical specifications for their implementation of blockchain? (A non-technical implementation does not count)
   * 📃 : A link to their technical whitpaper
   
-
-
-## Summary

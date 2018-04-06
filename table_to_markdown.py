@@ -1,13 +1,29 @@
+#!/usr/bin/env python
+
+__author__ = "Jerome Scelza"
+__credits__ = ["Matt Johnsont", "Noah Zimmerman"]
+__license__ = "MIT"
+__version__ = "2.0.1"
+__maintainer__ = "Jerome Scelza"
+__email__ = "jerome.scelza@mssm.edu"
+__status__ = "Prototype"
+
+# This code is used to create the formatted markdown text the drives the README.md on this repo
+# The content for the text comes from an unformatted csv called Master_List.csv, this is all of the respective
+# blochain company information that has been sourced by good old-fashioned manual labor (scouring website and transcribing)
+# Fianlly, you will find a series of functions that are used to format the strings in MD, which is subsequently,
+# stored into a dataframe. This dataframe then gets converted into pretty print via "tabulate" and saved to an .md file
+
 from tabulate import tabulate
 import pandas as pd
 import glob
 
+#pulling in the contents from the CSV as a pandas dataframe
 file_name = './Master_List.csv'
-
 df_unformatted_load = pd.read_csv(file_name)
 
-# converting simple csv txt inot formatted markdown
-# each function represents the complete set inside table pipes
+
+#Defining a bunch of functions that transform the content into formatted markdown
 
 def logo_md(im_source, site_link):
     im_md = '[<img src="' + im_source + '" width="80">]' 
@@ -56,8 +72,9 @@ def tech_spec_md(spec_url):
         return(paper_emoji + spec_link)
 
 
-#compiling the new df, listxlist
-
+# creating individual stacks of formatted data that represent each of the columns
+# in the final data table. This is done by looping through the length of unformatted dataframe
+# of columns of interest and using the functions to format
 name_stack = []
 git_stack = []
 site_stack = []
@@ -78,7 +95,7 @@ for i in range(len(df_unformatted_load)):
     demo_stack.append(demo_md(demo_url,demo_type))
     tech_stack.append(tech_spec_md(spec_url))
 
-
+# Now we are ready to compile the final, fully-formatted dataframe
 df_md = pd.DataFrame(columns = ['Name', 'Category' , 'Location' , 'Code', 'Demo', 'TS' ], index=site_stack)
 df_md.index.name = 'Site'
 df_md['Name'] = name_stack
@@ -89,29 +106,30 @@ df_md['Demo'] = demo_stack
 df_md['TS'] = tech_stack
 
 
-headers = ['Site']
-headers.extend(list(df_md.columns))
+# Writing the text to the md file using the file.write() feature of python
 
+# First we open the README and write the intro text.
 read_files = glob.glob("./intro.txt")
-
 with open("README.md", "wb") as outfile:
     for f in read_files:
         with open(f, "rb") as infile:
             outfile.write(infile.read())
 
+# Second we re-open the README as appending to, and write the table.
 f = open('./README.md', 'a')
+f.write(" \n")
 f.write("____\n")
-            
-
-
+f.write(" \n")
+f.write("## Source List Current Total: __*%s*__ \n" % str(len(df_unformatted_load)))
+.write(" \n")
+headers = ['Site']
+headers.extend(list(df_md.columns))
 f.write(tabulate(df_md,headers, tablefmt="pipe", stralign= "center"))
-
 f.write(" \n")
 
 
 
-
-
+# Next we are looking to do a similiar process, but with the small company specific tables
 detail_params  =  ['Category' , 'Location','Money Raised (M)', 'Method of Funding',
                     'Github Profile','ICO Symbol','Coin','White Paper']
 
@@ -158,14 +176,5 @@ for i in range(len(df_unformatted_load)):
     f.write(tabulate(df_company_specific, [' ','Details'],tablefmt="pipe"))
     f.write("____\n")
 
-
-
-
-
-
-
-
-
-
-
+# Finally, we close the markdown file
 f.close()
