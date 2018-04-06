@@ -33,9 +33,11 @@ A description of the headers for the table is shown below:
 * **Technical Specifications (TS)**: Do they have a public technical whitepaper or technical specifications for their implementation of blockchain? (A non-technical implementation does not count)
   * 📃 : A link to their technical whitpaper
   
-
-
-## Summary____
+ 
+____
+ 
+## Source List Current Total: __*91*__ 
+ 
 |                                                                                                                Site                                                                                                                |                          Name                           |       Category        |                             Location                              |                                                                          Code                                                                           |                                                       Demo                                                        |                                                                            TS                                                                             |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|:---------------------:|:-----------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                     [<img src="https://aim.aimedis.com/img/logo_new.png" width="80">](https://aim.aimedis.com)                                                                     |                   [aimedis](#aimedis)                   |      Marketplace      |                        Steyl, Netherlands                         |                                                                      :exclamation:                                                                      |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |

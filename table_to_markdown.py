@@ -121,7 +121,7 @@ f.write(" \n")
 f.write("____\n")
 f.write(" \n")
 f.write("## Source List Current Total: __*%s*__ \n" % str(len(df_unformatted_load)))
-.write(" \n")
+f.write(" \n")
 headers = ['Site']
 headers.extend(list(df_md.columns))
 f.write(tabulate(df_md,headers, tablefmt="pipe", stralign= "center"))
