@@ -7,9 +7,6 @@ We strongly encourage you to contribute to our list by adding new initiatives, u
 To maintain the integrity of this list, we request that any changes or additon of new companies remain as objective as possible.
 
 
-## We Develop with Github
-We use GitHub to host code as well as accept pull requests.
-
 ## [Github Flow](https://guides.github.com/introduction/flow/index.html)
 Pull requests are the best way to propose changes to the our compiled list of Blockchain Initiatives (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). To do so:
 
