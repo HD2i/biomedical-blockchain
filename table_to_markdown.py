@@ -80,6 +80,7 @@ git_stack = []
 site_stack = []
 demo_stack = []
 tech_stack = []
+vc_raise_stack = []
 
 for i in range(len(df_unformatted_load)):
     im_source, site_link = df_unformatted_load['logo_source'][i] , df_unformatted_load['Site'][i]
@@ -94,9 +95,10 @@ for i in range(len(df_unformatted_load)):
     git_stack.append(git_md(git_url))
     demo_stack.append(demo_md(demo_url,demo_type))
     tech_stack.append(tech_spec_md(spec_url))
+    vc_raise_stack.append(df_unformatted_load['vc_raise'][i])
 
 # Now we are ready to compile the final, fully-formatted dataframe
-df_md = pd.DataFrame(columns = ['Name', 'Category' , 'Location' , 'Code', 'Demo', 'TS' ], index=site_stack)
+df_md = pd.DataFrame(columns = ['Name', 'Category' , 'Location' , 'Code', 'Demo', 'TS' ,'VC Raise'], index=site_stack)
 df_md.index.name = 'Site'
 df_md['Name'] = name_stack
 df_md['Category'] = list(df_unformatted_load['Category'])
@@ -104,7 +106,7 @@ df_md['Location'] = list(df_unformatted_load['Location'])
 df_md['Code'] = git_stack
 df_md['Demo'] = demo_stack
 df_md['TS'] = tech_stack
-
+df_md['VC Raise'] = vc_raise_stack
 
 # Writing the text to the md file using the file.write() feature of python
 
