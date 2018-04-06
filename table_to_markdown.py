@@ -104,7 +104,7 @@ f.write("____\n")
             
 
 
-f.write(tabulate(df_md,headers, tablefmt="pipe"))
+f.write(tabulate(df_md,headers, tablefmt="pipe", stralign= "center"))
 
 f.write(" \n")
 
