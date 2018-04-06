@@ -10,8 +10,8 @@ To maintain the integrity of this list, we request that any changes or additon o
 ## We Develop with Github
 We use GitHub to host code as well as accept pull requests.
 
-## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-Pull requests are the best way to propose changes to the our compiled list of Blockchain Initiatives (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
+## [Github Flow](https://guides.github.com/introduction/flow/index.html)
+Pull requests are the best way to propose changes to the our compiled list of Blockchain Initiatives (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). To do so:
 
 1. Fork the repo and create your branch from `master`.
 2. Add a new initiative or modify an existing one in the 'MasterList.csv'. Please try to be as objective as possible.
