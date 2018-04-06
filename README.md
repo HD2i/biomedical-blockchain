@@ -81,7 +81,7 @@ A description of the headers for the table is shown below:
 |                               [<img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/11/Health_Wizz_Logo_icon_Feb_2017-1.jpg" width="80">](https://www.healthwizz.com/)                                |               [Health_Wizz](#health_wizz)               |       Ownership       |                    Falls Church, Virginia, USA                    |                                                                      :exclamation:                                                                      |                                [:clipboard:](https://www.healthwizz.net/resources)                                |          [:page_facing_up:](https://daks2k3a4ib2z.cloudfront.net/586ebe41ba9f9499729002dc/59e6211d76c4d200017c6dc5_HealthWizz_White%20Paper.pdf)          |
 |                                                                       [<img src="https://i.imgur.com/qcBtxIh.png" width="80">](https://healthbase.digital/)                                                                        |                [HealthBase](#healthbase)                |       Research        |                           Bonn, Germany                           |                                                                      :exclamation:                                                                      |                                  [:clipboard:](https://healthbase.digital/faq/)                                   |                                                                   [:page_facing_up:]( )                                                                   |
 |                         [<img src="https://i0.wp.com/blockchainhealthcarereview.com/wp-content/uploads/2017/12/Universal-Health-Coin.png?resize=228%2C251&ssl=1" width="80">](https://www.healthcoin.com)                          |                [HealthCoin](#healthcoin)                |       Services        |                             New York                              |  [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/onsightit/healthcoin-web-wallet)   |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |
-|                                                 [<img src="http://www.liou-tai.net/image/cache/data/meun/A-桶圈/A-50KG瓦斯桶用-橘-550x582.jpg" width="80">](http://www.healthcombix.com/)                                                 |              [Healthcombix](#healthcombix)              |       Ownership       |                     Nashville, Tennessee, USA                     |                                                                      :exclamation:                                                                      |                                                   :exclamation:                                                   |                                                     [:page_facing_up:](http://www.healthcombix.com/)                                                      |
+|                                             [<img src="http://www.liou-tai.net/image/cache/data/meun/A-桶圈/A-50KG瓦斯桶用-橘-550x582.jpg" width="80">](http://www.healthcombix.com/)                                              |              [Healthcombix](#healthcombix)              |       Ownership       |                     Nashville, Tennessee, USA                     |                                                                      :exclamation:                                                                      |                                                   :exclamation:                                                   |                                                     [:page_facing_up:](http://www.healthcombix.com/)                                                      |
 |                                              [<img src="https://tokenmarket.net/blockchain-static/ethereum/assets/healthureum/logo_big.png" width="80">](https://www.healthureum.io/)                                              |               [Healthureum](#healthureum)               |       Services        |                              Estonia                              |      [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Healthureum/healthureum)       |                           [:movie_camera:](https://www.youtube.com/watch?v=HbHUYbkFkZE)                           |                                      [:page_facing_up:](https://www.healthureum.io/app/Healthureum-White-Paper.pdf)                                       |
 |                                                      [<img src="https://icomood.com/media/cache/48/87/488773dd43a64f0b6ac933025fd8271c.jpg" width="80">](http://hearthy.co/)                                                       |                   [Hearthy](#hearthy)                   |       Services        |                               Spain                               |             [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/hearthyco)              |                                   [:computer:](https://client.demo.hearthy.co)                                    |                                        [:page_facing_up:](http://hearthy.co/assets/images/Hearthy-whitepaper.pdf)                                         |
 |                                                          [<img src="https://hit.foundation/wp-content/uploads/2017/09/HIT-logo.png" width="80">](https://hit.foundation)                                                           |            [hit_Foundation](#hit_foundation)            |      Marketplace      |                            Switzerland                            |           [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/HITFoundation)            |                                   [:clipboard:](https://hit.foundation/system/)                                   |                                                   [:page_facing_up:](https://hit.foundation/documents/)                                                   |
@@ -161,7 +161,7 @@ Quality control and assurance of pharmaceutical products
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Supply Chain                                                                                                                  |
 | Location          | Zug, Switzerland                                                                                                              |
-| Money Raised (M)  | 63                                                                                                                            |
+| Money Raised (M)  | $63.00                                                                                                                        |
 | Method of Funding | ICO                                                                                                                           |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/ambrosus) |
 | ICO Symbol        | AMB                                                                                                                           |
@@ -180,7 +180,7 @@ Healthcare management through a revised HER. This technology utilizes an incenti
 |:------------------|:---------------------------------------------------|
 | Category          | Ownership                                          |
 | Location          | Austin, TX, USA                                    |
-| Money Raised (M)  | 45                                                 |
+| Money Raised (M)  | $45.00                                             |
 | Method of Funding | ICO                                                |
 | Github Profile    | :exclamation:                                      |
 | ICO Symbol        | AMC                                                |
@@ -199,7 +199,7 @@ Providing a new solution for cancer research participants to share and coordinat
 |:------------------|:--------------------------------------------------------------------------|
 | Category          | Marketplace                                                               |
 | Location          | Moscow, Russia                                                            |
-| Money Raised (M)  | 0.45                                                                      |
+| Money Raised (M)  | $0.45                                                                     |
 | Method of Funding | -                                                                         |
 | Github Profile    | :exclamation:                                                             |
 | ICO Symbol        | ARNA                                                                      |
@@ -218,7 +218,7 @@ a state-of-the-art blockchain platform that safekeeps your data and allows you t
 |:------------------|:---------------------------------------------------------|
 | Category          | Ownership                                                |
 | Location          | Hamburg, Germany                                         |
-| Money Raised (M)  | 22                                                       |
+| Money Raised (M)  | $22.00                                                   |
 | Method of Funding | ICO                                                      |
 | Github Profile    | :exclamation:                                            |
 | ICO Symbol        | BEAT                                                     |
@@ -237,7 +237,7 @@ Bitmark is a universal system for digital property rights
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Ownership                                                                                                                                    |
 | Location          | Taipei, Taiwan                                                                                                                               |
-| Money Raised (M)  | 1.7                                                                                                                                          |
+| Money Raised (M)  | $1.70                                                                                                                                        |
 | Method of Funding | SEED                                                                                                                                         |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/project-bitmark/bitmark) |
 | ICO Symbol        | BTM                                                                                                                                          |
@@ -294,7 +294,7 @@ platform comprises of the Bowhead hardware device which monitors a customer's bi
 |:------------------|:--------------------------------------------------------------------------------------------|
 | Category          | Supply Chain                                                                                |
 | Location          | Singapore                                                                                   |
-| Money Raised (M)  | 1                                                                                           |
+| Money Raised (M)  | $1.00                                                                                       |
 | Method of Funding | ICO                                                                                         |
 | Github Profile    | :exclamation:                                                                               |
 | ICO Symbol        | AHT                                                                                         |
@@ -313,7 +313,7 @@ platform leverages blockchain and machine intelligence to enable data from dispa
 |:------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Category          | Marketplace                                                                                                                  |
 | Location          | Denver, Colorado, USA                                                                                                        |
-| Money Raised (M)  | 5                                                                                                                            |
+| Money Raised (M)  | $5.00                                                                                                                        |
 | Method of Funding | SEED                                                                                                                         |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/BurstIQ) |
 | ICO Symbol        | BiQ                                                                                                                          |
@@ -351,7 +351,7 @@ The CareX blockchain platform consists of a health records vault, a health servi
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Marketplace                                                                                                                    |
 | Location          | Bellaire, Texas, USA                                                                                                           |
-| Money Raised (M)  | 10                                                                                                                             |
+| Money Raised (M)  | $10.00                                                                                                                         |
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/CareXTech) |
 | ICO Symbol        | CARE                                                                                                                           |
@@ -409,7 +409,7 @@ Coinhealth’s mobile platform will allow both patient and provider instant and 
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Ownership                                                                                                                                  |
 | Location          | Dallas, Texas, USA                                                                                                                         |
-| Money Raised (M)  | 0.1                                                                                                                                        |
+| Money Raised (M)  | $0.10                                                                                                                                      |
 | Method of Funding | ICO                                                                                                                                        |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/CoinHealth/CoinHealth) |
 | ICO Symbol        | COINHEALTH                                                                                                                                 |
@@ -447,7 +447,7 @@ CryoGen is a European cryonics development project creating technologies for rev
 |:------------------|:-----------------------------------------------------|
 | Category          | Services                                             |
 | Location          | Moscow, Russia                                       |
-| Money Raised (M)  | 2.5                                                  |
+| Money Raised (M)  | $2.50                                                |
 | Method of Funding | ICO                                                  |
 | Github Profile    | :exclamation:                                        |
 | ICO Symbol        | CRYO                                                 |
@@ -466,7 +466,7 @@ CryoGen is a European cryonics development project creating technologies for rev
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Research                                                                                                                                     |
 | Location          | USA                                                                                                                                          |
-| Money Raised (M)  | 6.8                                                                                                                                          |
+| Money Raised (M)  | $6.80                                                                                                                                        |
 | Method of Funding | ICO                                                                                                                                          |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/cygnusxi/CurecoinSource) |
 | ICO Symbol        | CURE                                                                                                                                         |
@@ -504,7 +504,7 @@ Datum is a decentralized and distributed high performance NoSQL database backed 
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                          |
 | Location          | Switzerland                                                                                                                       |
-| Money Raised (M)  | 7.2                                                                                                                               |
+| Money Raised (M)  | $7.20                                                                                                                             |
 | Method of Funding | ICO                                                                                                                               |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/datumnetwork) |
 | ICO Symbol        | DAT                                                                                                                               |
@@ -523,7 +523,7 @@ blockchain solution for the global dental industry; an Ethereum-based blockchain
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                       |
 | Location          | Maastricht, Netherlands                                                                                                        |
-| Money Raised (M)  | 2.1                                                                                                                            |
+| Money Raised (M)  | $2.10                                                                                                                          |
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Dentacoin) |
 | ICO Symbol        | DCN                                                                                                                            |
@@ -542,7 +542,7 @@ blockchain company for Dental clinics and the supply chain.
 |:------------------|:--------------------------------------------------------------------------------------|
 | Category          | Supply Chain                                                                          |
 | Location          | Saint Petersburg, Russia                                                              |
-| Money Raised (M)  | 0.15                                                                                  |
+| Money Raised (M)  | $0.15                                                                                 |
 | Method of Funding | ICO                                                                                   |
 | Github Profile    | :exclamation:                                                                         |
 | ICO Symbol        | DFBT                                                                                  |
@@ -599,7 +599,7 @@ a conversational AI-powered platform for on-demand, quantified biology
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                    |
 | Location          | Palo Alto, California, USA                                                                                                  |
-| Money Raised (M)  | 12.3                                                                                                                        |
+| Money Raised (M)  | $12.30                                                                                                                      |
 | Method of Funding | ICO                                                                                                                         |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/doc-AI) |
 | ICO Symbol        | NRN                                                                                                                         |
@@ -694,7 +694,7 @@ blockchain enhanced security for safe cloud storage and sharing of genomic data.
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Ownership                                                                                                                      |
 | Location          | Coral Springs, Florida, USA                                                                                                    |
-| Money Raised (M)  | 12                                                                                                                             |
+| Money Raised (M)  | $12.00                                                                                                                         |
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/encrypgen) |
 | ICO Symbol        | DNA                                                                                                                            |
@@ -732,7 +732,7 @@ using proprietary technology, the best science, and advanced AI techniques, the 
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                            |
 | Location          | Vancouver, Canada                                                                                                                   |
-| Money Raised (M)  | 15                                                                                                                                  |
+| Money Raised (M)  | $15.00                                                                                                                              |
 | Method of Funding | ICO                                                                                                                                 |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/longevitytoken) |
 | ICO Symbol        | LTY                                                                                                                                 |
@@ -808,7 +808,7 @@ The GemOS enterprise platform enables all parties in today's data-driven healthc
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------|
 | Category          | Ownership                                                                                                                  |
 | Location          | Venice, CA                                                                                                                 |
-| Money Raised (M)  | 7.1                                                                                                                        |
+| Money Raised (M)  | $7.10                                                                                                                      |
 | Method of Funding | SERIES                                                                                                                     |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/GemHQ) |
 | ICO Symbol        | GEM                                                                                                                        |
@@ -827,7 +827,7 @@ Hashed Health is leading a consortium of healthcare companies focused on acceler
 |:------------------|:--------------|
 | Category          | Consortium    |
 | Location          | -             |
-| Money Raised (M)  | 1.8           |
+| Money Raised (M)  | $1.80         |
 | Method of Funding | SEED          |
 | Github Profile    | :exclamation: |
 | ICO Symbol        | -             |
@@ -884,7 +884,7 @@ The world's first device for non-invasive diagnostics of blood glucose level, lu
 |:------------------|:--------------------------------------------------------------------------------------|
 | Category          | Services                                                                              |
 | Location          | Czech Republic                                                                        |
-| Money Raised (M)  | 0.5                                                                                   |
+| Money Raised (M)  | $0.50                                                                                 |
 | Method of Funding | ICO                                                                                   |
 | Github Profile    | :exclamation:                                                                         |
 | ICO Symbol        | HLC                                                                                   |
@@ -941,7 +941,7 @@ A global, blockchain-enabled rewards platform designed to change people’s beha
 |:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                                             |
 | Location          | New York                                                                                                                                             |
-| Money Raised (M)  | 0.2                                                                                                                                                  |
+| Money Raised (M)  | $0.20                                                                                                                                                |
 | Method of Funding | SEED,ICO                                                                                                                                             |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/onsightit/healthcoin-web-wallet) |
 | ICO Symbol        | -                                                                                                                                                    |
@@ -1055,7 +1055,7 @@ Iryo network is the world's first participatory healthcare ecosystem build on st
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Ownership                                                                                                                        |
 | Location          | Kranj, Slovenia                                                                                                                  |
-| Money Raised (M)  | 15.8                                                                                                                             |
+| Money Raised (M)  | $15.80                                                                                                                           |
 | Method of Funding | ICO                                                                                                                              |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/iryonetwork) |
 | ICO Symbol        | IRYO                                                                                                                             |
@@ -1093,7 +1093,7 @@ a toolkit for building trusted decentralized healthcare apps; executable on mobi
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Development                                                                                                                          |
 | Location          | Switzerland                                                                                                                          |
-| Money Raised (M)  | 23.5                                                                                                                                 |
+| Money Raised (M)  | $23.50                                                                                                                               |
 | Method of Funding | ICO                                                                                                                                  |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Litrafoundation) |
 | ICO Symbol        | LTA                                                                                                                                  |
@@ -1112,7 +1112,7 @@ A blockchain-based “life data marketplace platform" which provides modular too
 |:------------------|:--------------|
 | Category          | Marketplace   |
 | Location          | -             |
-| Money Raised (M)  | 70            |
+| Money Raised (M)  | $70.00        |
 | Method of Funding | ICO           |
 | Github Profile    | :exclamation: |
 | ICO Symbol        | -             |
@@ -1131,7 +1131,7 @@ Luna is a community owned database that rewards individuals Luna Coins for contr
 |:------------------|:--------------|
 | Category          | Marketplace   |
 | Location          | San Diego, CA |
-| Money Raised (M)  | 2             |
+| Money Raised (M)  | $2.00         |
 | Method of Funding | SEED,ICO      |
 | Github Profile    | :exclamation: |
 | ICO Symbol        | -             |
@@ -1150,7 +1150,7 @@ The LUVEN screening test method detects cancer at its early stages with the accu
 |:------------------|:---------------------------------------------------------------------|
 | Category          | Services                                                             |
 | Location          | Ukraine                                                              |
-| Money Raised (M)  | 0.03                                                                 |
+| Money Raised (M)  | $0.03                                                                |
 | Method of Funding | ICO                                                                  |
 | Github Profile    | :exclamation:                                                        |
 | ICO Symbol        | LVN                                                                  |
@@ -1169,7 +1169,7 @@ Powered by user-generated and user-controlled fitness and wellness data, Lympo w
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Ownership                                                                                                                                        |
 | Location          | -                                                                                                                                                |
-| Money Raised (M)  | 12.8                                                                                                                                             |
+| Money Raised (M)  | $12.80                                                                                                                                           |
 | Method of Funding | ICO                                                                                                                                              |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/LympoICO/ico-smartcontracts) |
 | ICO Symbol        | LYM                                                                                                                                              |
@@ -1207,7 +1207,7 @@ a blockchain-powered platform connecting patients and doctors worldwide on a dec
 |:------------------|:--------------------------------------------------------------------------------------|
 | Category          | Services                                                                              |
 | Location          |                                                                                       |
-| Money Raised (M)  | 12.3                                                                                  |
+| Money Raised (M)  | $12.30                                                                                |
 | Method of Funding | ICO                                                                                   |
 | Github Profile    | :exclamation:                                                                         |
 | ICO Symbol        | MEDX                                                                                  |
@@ -1226,7 +1226,7 @@ a decentralized healthcare information ecosystem for patients, healthcare provid
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Marketplace                                                                                                                   |
 | Location          | Seoul, South Korea                                                                                                            |
-| Money Raised (M)  | 21.1                                                                                                                          |
+| Money Raised (M)  | $21.10                                                                                                                        |
 | Method of Funding | ICO                                                                                                                           |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Medibloc) |
 | ICO Symbol        | QTUM                                                                                                                          |
@@ -1245,7 +1245,7 @@ tokenized cryptographic platform to help bring innovation to the pharmaceutical,
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Development                                                                                                                       |
 | Location          | Australia                                                                                                                         |
-| Money Raised (M)  | 0.045                                                                                                                             |
+| Money Raised (M)  | $0.05                                                                                                                             |
 | Method of Funding | ICO                                                                                                                               |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/medibondproj) |
 | ICO Symbol        | MEDI                                                                                                                              |
@@ -1264,7 +1264,7 @@ blockchain technology for secure storage and transfer of electronic health recor
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Marketplace                                                                                                                       |
 | Location          | UK                                                                                                                                |
-| Money Raised (M)  | 24                                                                                                                                |
+| Money Raised (M)  | $24.00                                                                                                                            |
 | Method of Funding | ICO                                                                                                                               |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/medicalchain) |
 | ICO Symbol        | MTN                                                                                                                               |
@@ -1283,7 +1283,7 @@ MediChain gives patients ownership of their own medical data. MediChain is a dis
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Ownership                                                                                                                      |
 | Location          | London, UK                                                                                                                     |
-| Money Raised (M)  | 13.1                                                                                                                           |
+| Money Raised (M)  | $13.10                                                                                                                         |
 | Method of Funding | -                                                                                                                              |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/medichain) |
 | ICO Symbol        | MCU                                                                                                                            |
@@ -1397,7 +1397,7 @@ a platform for decentralized medical interpreter training
 |:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                                       |
 | Location          | McDonough, Georgia, USA                                                                                                                        |
-| Money Raised (M)  | 0.16                                                                                                                                           |
+| Money Raised (M)  | $0.16                                                                                                                                          |
 | Method of Funding | ICO                                                                                                                                            |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/whitesky77658/Mitio_Token) |
 | ICO Symbol        | MITIO                                                                                                                                          |
@@ -1416,7 +1416,7 @@ combines IoT sensors with blockchain technology to provide data integrity for tr
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Development                                                                                                                   |
 | Location          | Zürich, Switzerland                                                                                                           |
-| Money Raised (M)  | 13.4                                                                                                                          |
+| Money Raised (M)  | $13.40                                                                                                                        |
 | Method of Funding | ICO                                                                                                                           |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/modum-io) |
 | ICO Symbol        | MOD                                                                                                                           |
@@ -1454,7 +1454,7 @@ Spur genomic data growth by significantly reducing the costs of personal genome 
 |:------------------|:-----------------------------------------------------------------------------------------------|
 | Category          | Research                                                                                       |
 | Location          | -                                                                                              |
-| Money Raised (M)  | 1.6                                                                                            |
+| Money Raised (M)  | $1.60                                                                                          |
 | Method of Funding | SEED,ICO                                                                                       |
 | Github Profile    | :exclamation:                                                                                  |
 | ICO Symbol        | -                                                                                              |
@@ -1511,7 +1511,7 @@ a blockchain-based distributed electronic medical record storage computing platf
 |:------------------|:---------------------------------------------------------------------|
 | Category          | Ownership                                                            |
 | Location          | Atlanta, Georgia, USA                                                |
-| Money Raised (M)  | 7.2                                                                  |
+| Money Raised (M)  | $7.20                                                                |
 | Method of Funding | ICO                                                                  |
 | Github Profile    | :exclamation:                                                        |
 | ICO Symbol        | PTOY                                                                 |
@@ -1568,7 +1568,7 @@ a medical network managed by a blockchain token and designed to provide effectiv
 |:------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Category          | Supply Chain                                                                                                                 |
 | Location          | Russia                                                                                                                       |
-| Money Raised (M)  | 14.1                                                                                                                         |
+| Money Raised (M)  | $14.10                                                                                                                       |
 | Method of Funding | ICO                                                                                                                          |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/RoboMed) |
 | ICO Symbol        | RBM                                                                                                                          |
@@ -1587,7 +1587,7 @@ Secure, mobile way to manage prescriptions on a blockchain.
 |:------------------|:--------------|
 | Category          | Services      |
 | Location          | -             |
-| Money Raised (M)  | 2             |
+| Money Raised (M)  | $2.00         |
 | Method of Funding | SEED          |
 | Github Profile    | :exclamation: |
 | ICO Symbol        | -             |
@@ -1644,7 +1644,7 @@ Health Nexus is a blockchain oriented distributed system handling data transfer,
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                          |
 | Location          | New Haven, Connecticut, USA                                                                                                       |
-| Money Raised (M)  | 0.5                                                                                                                               |
+| Money Raised (M)  | $0.50                                                                                                                             |
 | Method of Funding | SEED,ICO                                                                                                                          |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Health-Nexus) |
 | ICO Symbol        | HLTH                                                                                                                              |
@@ -1701,7 +1701,7 @@ a cloud-based, block chain enabled, digital information and commerce platform en
 |:------------------|:--------------------------------------------------------------------------------------------------------------|
 | Category          | Supply Chain                                                                                                  |
 | Location          | Marietta, Georgia, USA                                                                                        |
-| Money Raised (M)  | 0.5                                                                                                           |
+| Money Raised (M)  | $0.50                                                                                                         |
 | Method of Funding | SEED,ICO                                                                                                      |
 | Github Profile    | :exclamation:                                                                                                 |
 | ICO Symbol        | SHP                                                                                                           |
@@ -1796,7 +1796,7 @@ WELL is globalizing healthcare and eliminating country borders to directly conne
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                      |
 | Location          | Santa Monica, California, USA                                                                                                 |
-| Money Raised (M)  | 3                                                                                                                             |
+| Money Raised (M)  | $3.00                                                                                                                         |
 | Method of Funding | ICO                                                                                                                           |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/joinwell) |
 | ICO Symbol        | WELL                                                                                                                          |
@@ -1853,7 +1853,7 @@ a decentralized blockchain-driven database of genomic information
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------|
 | Category          | Services                                                                                                                    |
 | Location          | -                                                                                                                           |
-| Money Raised (M)  | 0.62                                                                                                                        |
+| Money Raised (M)  | $0.62                                                                                                                       |
 | Method of Funding | ICO                                                                                                                         |
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/zenome) |
 | ICO Symbol        | ZNA                                                                                                                         |
