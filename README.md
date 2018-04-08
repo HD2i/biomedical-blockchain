@@ -1,39 +1,19 @@
 # Biomedical Blockchain Initiatives
 
-There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. This repository is an attempt to organize and document the biomedical blockchain space. It was assembled by the team at the [Health Data and Design Innovation Center](http://hd2i.org) at the [Icahn School of Medicine at Mount Sinai](http://icahn.mssm.edu), based off [XXXX], [YYYY] and [ZZZZ]. If you know of a company that should be on this list, pull requests are welcome!
+There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. At the [Health Data and Design Innovation Center](http://hd2i.org) at the [Icahn School of Medicine at Mount Sinai](http://icahn.mssm.edu) are following this trend closely, but it has been hard to keep up with the pace of new project announcements! That is why we are publicly releasing our internal database of biomedical initiatives built on blockchain technology; as a resource for the biomedical blockchain community to map the landscape of tools and use cases.
 
- ___
+## Legend
 
-## TOC
-
-A description of the headers for the table is shown below:
-
-* **Website**: Logo and link to their website.
-
-* **Name**: Name of the blockchain project/company. Internal link to more information about the company.
-
-* **Category**: This is the general category of the blockchain company which include:
-  * **Directly Health Related**
-    * Auditing of Supply Chain/ Logistics (Pharmacy, medications, etc.)
-    * Marketplace (Health Data)
-    * Ownership (Health Records/EHR)
-    * Interoperability (Health Records)
-    * Stakeholder Alignment through incentivization (Payers, Insurers, patients, etc.)
-  * **Applicable to Healthcare**
-    * General Marketplace
-    * General Ownership
-    
-* **Code**: Do they have publicly available and non-trivial open-source code (i.e. trivial including: white papers, tokens/token sales, not road maps, only a fork with no additional work)?
+The following summary consists of:
+* **$**: Amount raised from professional investors in USD in millions
+* **Code**: Publicly available and non-trivial code (i.e. trivial including: white papers, tokens/token sales, not road maps, only a fork with no additional work)?
   * <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="20"> : A link to their github that contains this
- 
-* **Demo**: Do they have a public demo or working product that is available? (This does not include private betas)
+* **Demo**: Publicly available demo or working product? (This does not include private betas)
   * 💻 : A link to their demo if a website 
-  * 📱 : A link to thier demo if an app
-  
-* **Technical Specifications (TS)**: Do they have a public technical whitepaper or technical specifications for their implementation of blockchain? (A non-technical implementation does not count)
+  * 📱 : A link to their demo if an app
+* **Technical Specifications (TS)**: Publicly available technical whitepaper or technical specifications for their implementation of blockchain technology? (A non-technical implementation does not count)
   * 📃 : A link to their technical whitpaper
-  
- 
+
 ____
  
 ## Source List Current Total: __*91*__ 
@@ -131,6 +111,7 @@ ____
 |                                                       [<img src="https://ccn2017.wpengine.com/wp-content/uploads/2015/06/1-youbase.png" width="80">](https://www.youbase.io)                                                       |                   [Youbase](#youbase)                   |       Ownership       |                           Englewood, CO                           |              [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/YouBase)               |                                  [:clipboard:](https://info.youbase.io/contact)                                   |                                                                       :exclamation:                                                                       |       -       |
 |        [<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p200x200/22885965_1724221597650765_2274191608940029515_n.png?_nc_cat=0&oh=ac00641fbf7292a0e5121a0b4219ce58&oe=5B310E77" width="80">](http://youthereum.io/)        |                [Youthereum](#youthereum)                |       Services        |                              Russia                               |                                                                      :exclamation:                                                                      |                                                   :exclamation:                                                   |                                   [:page_facing_up:](https://drive.google.com/file/d/0B5Hh8hipzj-OODBqTmxnZHZXbG8/view)                                   |       -       |
 |                                                                            [<img src="https://i.imgur.com/NjyUZs3.png" width="80">](https://zenome.io/)                                                                            |                    [Zenome](#zenome)                    |       Services        |                                 -                                 |               [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/zenome)               |                           [:movie_camera:](https://www.youtube.com/watch?v=IfChaz0MYBE)                           |                                               [:page_facing_up:](https://zenome.io/download/whitepaper.pdf)                                               |       -       | 
+
 ## aimedis
  
  
