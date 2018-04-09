@@ -52,10 +52,11 @@ def git_md(git_url):
         return(git_icon + git_link)
 
 def demo_md(demo_url, demo_type):
-    demo_styles = {'-':':exclamation:' , '0': '[:iphone:]' , '1':'[:computer:]', '2':'[:movie_camera:]', '3':'[:clipboard:]'}
+    # demo_styles = {'-':':exclamation:' , '0': '[:iphone:]' , '1':'[:computer:]', '2':'[:movie_camera:]', '3':'[:clipboard:]'}
+    demo_styles = {'-':':exclamation:' , '0': '[:iphone:]' , '1':'[:computer:]', '2':':exclamation:', '3':':exclamation:'}
     emoji_style = demo_styles[str(demo_type)]
     
-    if demo_url == '-':
+    if demo_type != '0' or demo_type !='1':
         return(emoji_style)
     else:
         demo_link = '(' + demo_url + ')'
