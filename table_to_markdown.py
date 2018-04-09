@@ -57,7 +57,7 @@ def demo_md(demo_url, demo_type):
     
     emoji_style = demo_styles[str(demo_type)]
     
-    if str(demo_type) != '0' or str(demo_type) !='1':
+    if str(demo_type) != '0' and str(demo_type) !='1':
         return(emoji_style)
     else:
         demo_link = '(' + demo_url + ')'
