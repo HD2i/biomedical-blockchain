@@ -5,14 +5,14 @@ There is tremendous interest and opportunity to apply blockchain technologies to
 ## Legend
 
 The following summary consists of:
-* **$**: Amount raised from professional investors in USD in millions
 * **Code**: Publicly available and non-trivial code (i.e. trivial including: white papers, tokens/token sales, not road maps, only a fork with no additional work)?
   * <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="20"> : A link to their github that contains this
 * **Demo**: Publicly available demo or working product? (This does not include private betas)
   * 💻 : A link to their demo if a website 
   * 📱 : A link to their demo if an app
 * **Technical Specifications (TS)**: Publicly available technical whitepaper or technical specifications for their implementation of blockchain technology? (A non-technical implementation does not count)
-  * 📃 : A link to their technical whitpaper
+  * 📃 : A link to their technical whitepaper
+* **VC Raise(M)**: Amount raised from professional investors in USD in millions
  
 ____
  
