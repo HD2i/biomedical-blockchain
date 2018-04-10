@@ -173,6 +173,8 @@ for i in range(len(df_unformatted_load)):
     f.write(" \n")
 
     f.write(df_unformatted_load['description'][i] + '\n')
+    f.write('Notable: ' + df_unformatted_load['Notable'][i] + '\n')
+
 
     f.write(" \n")
     f.write(" \n")
