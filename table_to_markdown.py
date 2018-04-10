@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __author__ = "Jerome Scelza"
-__credits__ = ["Matt Johnsont", "Noah Zimmerman"]
+__credits__ = ["Matt Johnson", "Noah Zimmerman"]
 __license__ = "MIT"
 __version__ = "2.0.1"
 __maintainer__ = "Jerome Scelza"
@@ -11,7 +11,7 @@ __status__ = "Prototype"
 # This code is used to create the formatted markdown text the drives the README.md on this repo
 # The content for the text comes from an unformatted csv called Master_List.csv, this is all of the respective
 # blochain company information that has been sourced by good old-fashioned manual labor (scouring website and transcribing)
-# Fianlly, you will find a series of functions that are used to format the strings in MD, which is subsequently,
+# Finally, you will find a series of functions that are used to format the strings in MD, which is subsequently,
 # stored into a dataframe. This dataframe then gets converted into pretty print via "tabulate" and saved to an .md file
 
 from tabulate import tabulate
@@ -31,7 +31,7 @@ def logo_md(im_source, site_link):
     return(im_md+site_md)
 
 def logo_md_header(im_source, site_link):
-    im_md = '[<img src="' + im_source + '" width="200">]' 
+    im_md = '[<img src="' + im_source + '" width="200">]'
     site_md = '(' + site_link + ')'
     return(im_md+site_md)
 
@@ -47,16 +47,16 @@ def git_md(git_url):
 
     if git_url == '-':
         return(excl_emoji)
-    else:            
+    else:
         git_link = '(' + git_url + ')'
         return(git_icon + git_link)
 
 def demo_md(demo_url, demo_type):
     # demo_styles = {'-':':exclamation:' , '0': '[:iphone:]' , '1':'[:computer:]', '2':'[:movie_camera:]', '3':'[:clipboard:]'}
     demo_styles = {'-':':exclamation:' , '0': '[:iphone:]' , '1':'[:computer:]', '2':':exclamation:', '3':':exclamation:'}
-    
+
     emoji_style = demo_styles[str(demo_type)]
-    
+
     if str(demo_type) != '0' and str(demo_type) !='1':
         return(emoji_style)
     else:
@@ -153,10 +153,10 @@ for i in range(len(df_unformatted_load)):
     coin_type = df_unformatted_load['platform'][i]
     spec_url = df_unformatted_load['spec_url'][i]
     tech_stack = tech_spec_md(spec_url)
-    
+
     param_stack = [category_md, location_md,raise_md,method_md,git, ico_symbol, coin_type,
                     tech_stack]
-    
+
     df_company_specific['Details'] = param_stack
 
     company_heading = "## " + df_unformatted_load['Name'][i] + "\n"
@@ -173,7 +173,7 @@ for i in range(len(df_unformatted_load)):
     f.write(" \n")
 
     f.write(df_unformatted_load['description'][i] + '\n')
-    
+
     f.write(" \n")
     f.write(" \n")
 
