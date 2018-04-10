@@ -16,7 +16,7 @@ The following summary consists of:
  
 ____
  
-## Source List Current Total: __*91*__ 
+## Source List Current Total: __*85*__ 
  
 |                                                                                                                Site                                                                                                                |                          Name                           |                    Category                    |            Location             |                                                                        Code                                                                        |                                                       Demo                                                        |                                                                            TS                                                                             |  VC Raise(M)  |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|:----------------------------------------------:|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
@@ -61,8 +61,6 @@ ____
 |                                                                          [<img src="https://healpoint.io/img/man.png" width="80">](http://healpoint.io/)                                                                           |                 [HealPoint](#healpoint)                 |                    Services                    |  Los Angeles, California, USA   |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                     [<img src="https://assets.coingecko.com/coins/images/1988/large/hlc.png?1514446359" width="80">](http://healthmonitor.io/)                                                     |            [Health_Monitor](#health_monitor)            |                    Services                    |   _estajovice, Czech Republic   |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                               [<img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/11/Health_Wizz_Logo_icon_Feb_2017-1.jpg" width="80">](https://www.healthwizz.com/)                                |               [Health_Wizz](#health_wizz)               |                   Ownership                    |   Falls Church, Virginia, USA   |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |          [:page_facing_up:](https://daks2k3a4ib2z.cloudfront.net/586ebe41ba9f9499729002dc/59e6211d76c4d200017c6dc5_HealthWizz_White%20Paper.pdf)          |       -       |
-|                                                                                                   [<img src="-" width="80">](-)                                                                                                    |                         [-](#-)                         |                       -                        |                -                |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
-|                                                                                                   [<img src="-" width="80">](-)                                                                                                    |                         [-](#-)                         |                       -                        |                -                |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                          [<img src="http://www.liou-tai.net/image/cache/data/meun/A-æ¡¶åœˆ/A-50KGç“¦æ–¯æ¡¶ç”¨-æ©˜-550x582.jpg" width="80">](http://www.healthcombix.com/)                                          |              [Healthcombix](#healthcombix)              |                   Ownership                    |    Nashville, Tennessee, USA    |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                     [:page_facing_up:](http://www.healthcombix.com/)                                                      |       -       |
 |                                              [<img src="https://tokenmarket.net/blockchain-static/ethereum/assets/healthureum/logo_big.png" width="80">](https://www.healthureum.io/)                                              |               [Healthureum](#healthureum)               |                    Services                    |        Tallinn, Estonia         |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                      [<img src="https://icomood.com/media/cache/48/87/488773dd43a64f0b6ac933025fd8271c.jpg" width="80">](http://hearthy.co/)                                                       |                   [Hearthy](#hearthy)                   |            Patient Data Management             |           Vigo, Spain           |           [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/hearthyco)           |                                   [:computer:](https://client.demo.hearthy.co)                                    |                                        [:page_facing_up:](http://hearthy.co/assets/images/Hearthy-whitepaper.pdf)                                         |       -       |
@@ -75,7 +73,6 @@ ____
 |                                                      [<img src="http://www.finsmes.com/wp-content/uploads/2017/12/lunadna-300x300.jpg" width="80">](https://www.lunadna.com)                                                       |                   [LunaDNA](#lunadna)                   |                  Marketplace                   |          San Diego, CA          |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       2       |
 |                                                                 [<img src="https://www.trackico.io/media/oOzVAea1_400x400.jpg" width="80">](https://luvenmed.io/)                                                                  |          [Luven_Diagnostic](#luven_diagnostic)          |                    Services                    |             Ukraine             |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                                   [<img src="https://www.trackico.io/media/68CcMp3Q_400x400.jpg" width="80">](https://lympo.io)                                                                    |                     [Lympo](#lympo)                     |                  Marketplace                   |            Lithuania            |  [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/LympoICO/ico-smartcontracts)  |                                                   :exclamation:                                                   |                                     [:page_facing_up:](https://lympo.io/wp-content/uploads/2017/12/whitepaper.pdf?v5)                                     |       -       |
-|                                                                                                   [<img src="-" width="80">](-)                                                                                                    |                         [-](#-)                         |                       -                        |                -                |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                       [<img src="https://pbs.twimg.com/profile_images/899631295520747520/Ig5AUCO0.jpg" width="80">](https://medcredits.io/)                                                        |                [MedCredits](#medcredits)                |                    Services                    |        Berkley, Michigan        |                                                                   :exclamation:                                                                    |             [:computer:](https://medium.com/medcredits/using-the-hippocrates-dapp-v1-0-64c23f5aa0f7)              |                                          [:page_facing_up:](https://medcredits.io/docs/MedCreditsWhitePaper.pdf)                                          |       -       |
 |                                    [<img src="https://i1.wp.com/bitcoinexchangeguide.com/wp-content/uploads/2017/11/medibloc.jpg?resize=696%2C449&ssl=1" width="80">](https://medibloc.org/en/)                                    |                  [MediBloc](#medibloc)                  |                  Marketplace                   |       Seoul, South Korea        |           [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Medibloc)            |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                            [<img src="https://qolczpnfu7-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/MediBond_ico_329x207.png" width="80">](http://medibond.io/)                                            |                  [MediBond](#medibond)                  |             Stakeholder alignment              |          Not Supplied           |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
@@ -86,18 +83,15 @@ ____
 |                                        [<img src="http://c.fastcdn.co/t/6efc847b/3c7a834d/1520966946-28382932-436x71x436x83x0x6-mednetwork-logo.png" width="80">](http://www.mednetwork.io)                                        |                [MedNetwork](#mednetwork)                |             Stakeholder Alignment              |            Singapore            |                                                                   :exclamation:                                                                    |                                      [:computer:](http://app.medai.network)                                       |                                                                       :exclamation:                                                                       |       -       |
 | [<img src="https://static.wixstatic.com/media/a6d7cc_573a7cdb21af47ccb79c6c0af5663160~mv2.png/v1/fill/w_212,h_212,al_c,usm_0.33_1.00_0.00/a6d7cc_573a7cdb21af47ccb79c6c0af5663160~mv2.png" width="80">](https://www.medxchange.io) |                [MedXchange](#medxchange)                |                  Supply Chain                  |        Hong Kong, China         |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                              [:page_facing_up:](https://docs.wixstatic.com/ugd/a6d7cc_ccd72646ac6e4217be3b19d0c04d9025.pdf)                               |       -       |
 |                                                [<img src="https://www.minthealth.io/wp-content/uploads/2018/03/minthealth-logo-color.png" width="80">](https://www.minthealth.io/)                                                 |                [minthealth](#minthealth)                |             Stakeholder Alignment              |   San Diego, California, USA    |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
-|                                                                                                   [<img src="-" width="80">](-)                                                                                                    |                         [-](#-)                         |                       -                        |                -                |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                    [<img src="http://bitcoinprbuzz.com/wp-content/uploads/2017/09/Modium-PR-image-1080x600.png" width="80">](https://modum.io/)                                                    |                     [modum](#modum)                     |                  Supply Chain                  |       Zurich, Switzerland       |           [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/modum-io)            |                                     [:computer:](https://github.com/modum-io)                                     |                                [:page_facing_up:](https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf)                                |       -       |
 |                                                     [<img src="https://pbs.twimg.com/profile_images/915926253777166336/N0rNy7GI_400x400.jpg" width="80">](https://mymedis.in)                                                      |                   [MyMedis](#mymedis)                   |                   Ownership                    |     Westerville, Ohio, USA      |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                          [:page_facing_up:](https://mymedis.in/documents/MEDIS-White-Paper.pdf)                                           |       -       |
 |                                [<img src="https://i1.wp.com/bitcoinexchangeguide.com/wp-content/uploads/2018/02/MediLedger.jpg?resize=696%2C449&ssl=1" width="80">](https://www.nebulagenomics.io)                                 |           [Nebula_Genomics](#nebula_genomics)           |                  Marketplace                   |   Boston, Massachusetts, USA    |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                              [:page_facing_up:](https://www.nebulagenomics.io/assets/documents/NEBULA_whitepaper_v4.52.pdf)                               |     $1.60     |
 |                                             [<img src="https://steemitimages.com/DQmY9AihRiQSryQFXAJYysdXsX4hzt7oS9cR8XvfeEATi6C/image.png" width="80">](http://en.openlongevity.io/)                                              |            [Open_Longevity](#open_longevity)            |                  Development                   |         Moscow, Russia          |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
-|                                                                                                   [<img src="-" width="80">](-)                                                                                                    |                         [-](#-)                         |                       -                        |                -                |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                          [<img src="https://cdn-images-1.medium.com/max/944/0*Y0XaxChgf3EMzMkb.png" width="80">](https://patientory.com/)                                                          |                [Patientory](#patientory)                |                   Ownership                    |      Atlanta, Georgia, USA      |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                           [:page_facing_up:](https://patientory.com/patientory_whitepaper.pdf)                                            |       -       |
 |                                  [<img src="https://www.blockchaintechnology-news.com/wp-content/uploads/2017/05/ximg-pd-peg.png.pagespeed.ic.9Q6wxcVWUP.png" width="80">](https://pokitdok.com)                                   |                  [PokitDok](#pokitdok)                  |             Stakeholder Alignment              |         Sillicon Valley         |           [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/pokitdok)            |                      [:computer:](https://platform.pokitdok.com/documentation/v4/#overview)                       |             [:page_facing_up:](https://pokitdok.com/wp-content/themes/pokitdok2017/dokchain/static/data/DokChainWhitepaper20170926Draft.pdf)              |    $55.30     |
 |                                     [<img src="https://i2.wp.com/bitcoinexchangeguide.com/wp-content/uploads/2018/03/proof-work.jpg?resize=696%2C449&ssl=1" width="80">](https://proof.work/)                                      |                [Proof.Work](#proof.work)                |                   Ownership                    |         London, England         |                                                                   :exclamation:                                                                    |                                     [:computer:](https://proof.work/coupon/)                                      |                                                                       :exclamation:                                                                       |       -       |
 |                                                        [<img src="https://cdn-images-1.medium.com/max/1200/1*SISRzAG8TMwPkYx1uyvAaQ.png" width="80">](https://robomed.io/)                                                         |           [Robomed_Network](#robomed_network)           |             Stakeholder Alignment              |             Russia              |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |          [<img src="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-1/20429931_1421973511226779_5207861906003401508_n.png?_nc_cat=0&oh=3838add2c2864478fbe144a29fc10f97&oe=5B2E5B0B" width="80">](https://www.scalamed.com)          |                  [ScalaMed](#scalamed)                  |                Interoperability                |        Sydney, Australia        |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
-|                                                                                                   [<img src="-" width="80">](-)                                                                                                    |                         [-](#-)                         |                       -                        |                -                |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                         [<img src="https://www.icoexaminer.com/wp-content/uploads/2018/03/shivom-logo.jpg" width="80">](http://shivom.io/)                                                         |                    [Shivom](#shivom)                    |                  Marketplace                   |         Munich, Germany         |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                [:page_facing_up:](https://shivom.io/files/Whitepaper.pdf)                                                 |       -       |
 |                                                 [<img src="https://icoholder.com/files/img/c969ab61b34f832a806882646f841e81.jpeg" width="80">](https://www.simplyvitalhealth.com/)                                                 |       [Simply_Vital_Health](#simply_vital_health)       |                  Marketplace                   |  Bloomfield, Connecticut, USA   |         [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Health-Nexus)          |                                                   :exclamation:                                                   |                                                   [:page_facing_up:](https://docsend.com/view/cuufmc5)                                                    |     $0.50     |
 |                                                  [<img src="https://assets.coingecko.com/coins/images/2319/large/shc.png?1515500205" width="80">](https://smarthealthcare.today/)                                                  |           [SmartHealthcare](#smarthealthcare)           |                   Ownership                    |             Estonia             |     [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/smarthealthcaretoday/)     |                                                   :exclamation:                                                   |                                        [:page_facing_up:](https://smarthealthcare.today/resources/whitepaper.pdf)                                         |       -       |
@@ -890,44 +884,6 @@ Mobile platform to aggregate, organize, and share medical records.
 | ICO Symbol        | -                                                                                                                                       |
 | Coin              | -                                                                                                                                       |
 | White Paper       | [:page_facing_up:](https://daks2k3a4ib2z.cloudfront.net/586ebe41ba9f9499729002dc/59e6211d76c4d200017c6dc5_HealthWizz_White%20Paper.pdf) |____
-## -
- 
- 
-[<img src="-" width="200">](-)
- 
- 
--
- 
- 
-|                   | Details       |
-|:------------------|:--------------|
-| Category          | -             |
-| Location          | -             |
-| Money Raised (M)  | -             |
-| Method of Funding | -             |
-| Github Profile    | :exclamation: |
-| ICO Symbol        | -             |
-| Coin              | -             |
-| White Paper       | :exclamation: |____
-## -
- 
- 
-[<img src="-" width="200">](-)
- 
- 
--
- 
- 
-|                   | Details       |
-|:------------------|:--------------|
-| Category          | -             |
-| Location          | -             |
-| Money Raised (M)  | -             |
-| Method of Funding | -             |
-| Github Profile    | :exclamation: |
-| ICO Symbol        | -             |
-| Coin              | -             |
-| White Paper       | :exclamation: |____
 ## Healthcombix
  
  
@@ -1156,25 +1112,6 @@ Monetizing sports and health data
 | ICO Symbol        | LYM                                                                                                                                              |
 | Coin              | ERC20                                                                                                                                            |
 | White Paper       | [:page_facing_up:](https://lympo.io/wp-content/uploads/2017/12/whitepaper.pdf?v5)                                                                |____
-## -
- 
- 
-[<img src="-" width="200">](-)
- 
- 
--
- 
- 
-|                   | Details       |
-|:------------------|:--------------|
-| Category          | -             |
-| Location          | -             |
-| Money Raised (M)  | -             |
-| Method of Funding | -             |
-| Github Profile    | :exclamation: |
-| ICO Symbol        | -             |
-| Coin              | -             |
-| White Paper       | :exclamation: |____
 ## MedCredits
  
  
@@ -1365,25 +1302,6 @@ A global decentralized health platform that empowers patients with a self-sovere
 | ICO Symbol        | VIDA                       |
 | Coin              | ERC20                      |
 | White Paper       | :exclamation:              |____
-## -
- 
- 
-[<img src="-" width="200">](-)
- 
- 
--
- 
- 
-|                   | Details       |
-|:------------------|:--------------|
-| Category          | -             |
-| Location          | -             |
-| Money Raised (M)  | -             |
-| Method of Funding | -             |
-| Github Profile    | :exclamation: |
-| ICO Symbol        | -             |
-| Coin              | -             |
-| White Paper       | :exclamation: |____
 ## modum
  
  
@@ -1460,25 +1378,6 @@ a project that initiates, organizes and guarantees the openness of clinical tria
 | ICO Symbol        | YEAR           |
 | Coin              | ERC20          |
 | White Paper       | :exclamation:  |____
-## -
- 
- 
-[<img src="-" width="200">](-)
- 
- 
--
- 
- 
-|                   | Details       |
-|:------------------|:--------------|
-| Category          | -             |
-| Location          | -             |
-| Money Raised (M)  | -             |
-| Method of Funding | -             |
-| Github Profile    | :exclamation: |
-| ICO Symbol        | -             |
-| Coin              | -             |
-| White Paper       | :exclamation: |____
 ## Patientory
  
  
@@ -1574,25 +1473,6 @@ A mobile prescription exchange system for patients, doctors, and pharmacists to 
 | ICO Symbol        | -                 |
 | Coin              | -                 |
 | White Paper       | :exclamation:     |____
-## -
- 
- 
-[<img src="-" width="200">](-)
- 
- 
--
- 
- 
-|                   | Details       |
-|:------------------|:--------------|
-| Category          | -             |
-| Location          | -             |
-| Money Raised (M)  | -             |
-| Method of Funding | -             |
-| Github Profile    | :exclamation: |
-| ICO Symbol        | -             |
-| Coin              | -             |
-| White Paper       | :exclamation: |____
 ## Shivom
  
  
