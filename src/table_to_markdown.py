@@ -114,13 +114,13 @@ df_md['VC Raise(M)'] = vc_raise_stack
 
 # First we open the README and write the intro text.
 read_files = glob.glob("./intro.txt")
-with open("README.md", "wb") as outfile:
+with open("../README.md", "wb") as outfile:
     for f in read_files:
         with open(f, "rb") as infile:
             outfile.write(infile.read())
 
 # Second we re-open the README as appending to, and write the table.
-f = open('./README.md', 'a')
+f = open('../README.md', 'a')
 f.write(" \n")
 f.write("____\n")
 f.write(" \n")
