@@ -112,6 +112,7 @@ ____
  
  
 Platform to store and share medical records
+ 
 Notable: -
  
  
@@ -132,6 +133,7 @@ Notable: -
  
  
 Quality control and assurance of pharmaceutical products
+ 
 Notable: -
  
  
@@ -152,6 +154,7 @@ Notable: -
  
  
 Incentive based EHR management.
+ 
 Notable: -
  
  
@@ -172,6 +175,7 @@ Notable: -
  
  
 Research oriented data exchange service focused on cancer.
+ 
 Notable: -
  
  
@@ -192,6 +196,7 @@ Notable: -
  
  
 Consumer health pipeline for sharing wearable and fitness data with EHR's
+ 
 Notable: -
  
  
@@ -212,6 +217,7 @@ Notable: -
  
  
 A universal system for digital property rights
+ 
 Notable: -
  
  
@@ -232,6 +238,7 @@ Notable: -
  
  
 Electronic prescription drug supply chain management, focused on opioids and other notoriously mismanaged drugs.
+ 
 Notable: -
  
  
@@ -252,6 +259,7 @@ Notable: -
  
  
 Pharmaceutical supply chain, coupled with clinical trial outcomes and regulation approval.
+ 
 Notable: -
  
  
@@ -272,6 +280,7 @@ Notable: -
  
  
 Hardware device that monitors a customer's biometric data to dispense medicine and supplements. 
+ 
 Notable: -
  
  
@@ -292,6 +301,7 @@ Notable: -
  
  
 Personalized data integration across EHR , wearables and social profile
+ 
 Notable: -
  
  
@@ -312,6 +322,7 @@ Notable: -
  
  
 Connects nurses to patients in need of care
+ 
 Notable: -
  
  
@@ -332,6 +343,7 @@ Notable: -
  
  
 A method for the payment of health care services.
+ 
 Notable: -
  
  
@@ -352,6 +364,7 @@ Notable: -
  
  
 A peer-to-peer health market owned and controlled by the people & physicians.
+ 
 Notable: -
  
  
@@ -372,6 +385,7 @@ Notable: -
  
  
 Clinicoin is a blockchain platform that pays you to be healthy
+ 
 Notable: -
  
  
@@ -392,6 +406,7 @@ Notable: -
  
  
 Mobile platform for medical records, verification, and payment solutions
+ 
 Notable: -
  
  
@@ -412,6 +427,7 @@ Notable: -
  
  
 Aligning the interests of different players in the healthcare ecosystem
+ 
 Notable: -
  
  
@@ -432,6 +448,7 @@ Notable: -
  
  
 Reversible freezing of donor organs and organisms for the purpose of life extension and long space flights.
+ 
 Notable: -
  
  
@@ -452,6 +469,7 @@ Notable: -
  
  
 A protein folding simulation Distributed Computing Network
+ 
 Notable: -
  
  
@@ -472,6 +490,7 @@ Notable: -
  
  
 Broker your health data to interested parties
+ 
 Notable: -
  
  
@@ -492,6 +511,7 @@ Notable: -
  
  
 NoSQL database backed by a blockchain ledger
+ 
 Notable: -
  
  
@@ -512,6 +532,7 @@ Notable: -
  
  
 Dental care marketplace
+ 
 Notable: -
  
  
@@ -532,6 +553,7 @@ Notable: -
  
  
 Dental clinics and the supply chain.
+ 
 Notable: -
  
  
@@ -552,6 +574,7 @@ Notable: -
  
  
 Value based healthcare access
+ 
 Notable: -
  
  
@@ -572,6 +595,7 @@ Notable: -
  
  
 Telehealth, expedited care and access
+ 
 Notable: -
  
  
@@ -592,6 +616,7 @@ Notable: -
  
  
 A mobile app for aquiring and exploring -OMICS data
+ 
 Notable: -
  
  
@@ -612,6 +637,7 @@ Notable: -
  
  
 Matching specialists and patients with rare conditions
+ 
 Notable: -
  
  
@@ -632,6 +658,7 @@ Notable: -
  
  
 Expanding the availability of innovative medical equipment
+ 
 Notable: -
  
  
@@ -652,6 +679,7 @@ Notable: -
  
  
 Peer shared computational power for protein folding
+ 
 Notable: -
  
  
@@ -672,6 +700,7 @@ Notable: -
  
  
 PatientTruthÂª for cloud based medical records
+ 
 Notable: -
  
  
@@ -692,6 +721,7 @@ Notable: -
  
  
 Coud storage and sharing of genomic data
+ 
 Notable: -
  
  
@@ -712,6 +742,7 @@ Notable: -
  
  
 Allows consumers to anonymously share their data for medical research.
+ 
 Notable: -
  
  
@@ -732,6 +763,7 @@ Notable: -
  
  
 Health and fitness advisor focusing on longevity, using token-based incentives
+ 
 Notable: -
  
  
@@ -752,6 +784,7 @@ Notable: -
  
  
 Trusted review system for medical tourism
+ 
 Notable: -
  
  
@@ -772,6 +805,7 @@ Notable: -
  
  
 AI driven diagnosis and clinical decision support
+ 
 Notable: -
  
  
@@ -792,6 +826,7 @@ Notable: -
  
  
 a platform for tracking drug authenticity
+ 
 Notable: -
  
  
@@ -812,6 +847,7 @@ Notable: -
  
  
 Allows individuals to benefit from the value of their own data
+ 
 Notable: -
  
  
@@ -832,6 +868,7 @@ Notable: -
  
  
 A healthcare innovation consultancy focused on accelerating meaningful innovation using blockchain
+ 
 Notable: -
  
  
@@ -852,6 +889,7 @@ Notable: -
  
  
 Advanced monitoring platform to address drug and alcohol addiction
+ 
 Notable: -
  
  
@@ -872,6 +910,7 @@ Notable: -
  
  
 Second opinion platform for medical diagnostics
+ 
 Notable: -
  
  
@@ -892,6 +931,7 @@ Notable: -
  
  
 Non-invasive diagnostics of blood glucose level, lung cancer, stomach ulcer and diabetes.
+ 
 Notable: -
  
  
@@ -912,6 +952,7 @@ Notable: -
  
  
 Mobile platform to aggregate, organize, and share medical records. 
+ 
 Notable: CEO was on CNBC https://www.cnbc.com/video/2017/12/26/how-we-are-using-blockchain-technology-to-secure-your-health-records-heath-wizz-ceo.html
  
  
@@ -932,6 +973,7 @@ Notable: CEO was on CNBC https://www.cnbc.com/video/2017/12/26/how-we-are-using-
  
  
 Healthcare blockchain, distributed ledger, and decentralized network strategy and product development company.
+ 
 Notable: -
  
  
@@ -952,6 +994,7 @@ Notable: -
  
  
 Data consolidation and exchange, doctor consult and referrals and medial infrastructure
+ 
 Notable: -
  
  
@@ -972,6 +1015,7 @@ Notable: -
  
  
 Personal Health Record, token and app ecosystem to improve healthcare access
+ 
 Notable: -
  
  
@@ -992,6 +1036,7 @@ Notable: -
  
  
 Marketplace for personal health data
+ 
 Notable: -
  
  
@@ -1012,6 +1057,7 @@ Notable: -
  
  
 Store and manage medical records
+ 
 Notable: -
  
  
@@ -1032,6 +1078,7 @@ Notable: -
  
  
 Health record storage platform, with an anonymous query interface. Controls for patient record access and tokens to incentivize  consent enabling artificial intelligence (AI) research. 
+ 
 Notable: -
  
  
@@ -1052,6 +1099,7 @@ Notable: -
  
  
 Primary care telemedicine A.I. chatbot
+ 
 Notable: -
  
  
@@ -1072,6 +1120,7 @@ Notable: -
  
  
 Free electronic health records running on the Litra blockchain
+ 
 Notable: -
  
  
@@ -1092,6 +1141,7 @@ Notable: -
  
  
 Platform which uses AI to store, manage, and trade life data: medical records, social network, and health data. 
+ 
 Notable: -
  
  
@@ -1112,6 +1162,7 @@ Notable: -
  
  
 Luna is a community owned database that rewards individuals Luna Coins for contributing their DNA and other medical information.
+ 
 Notable: Ex-Illumina execs on CNBC https://www.cnbc.com/2017/12/18/luna-coin-project-sell-your-genetic-data-for-crypto-tokens.html
  
  
@@ -1132,6 +1183,7 @@ Notable: Ex-Illumina execs on CNBC https://www.cnbc.com/2017/12/18/luna-coin-pro
  
  
 Early stage cancer diagnostic
+ 
 Notable: -
  
  
@@ -1152,6 +1204,7 @@ Notable: -
  
  
 Monetizing sports and health data
+ 
 Notable: -
  
  
@@ -1172,6 +1225,7 @@ Notable: -
  
  
 Telemedicine on the blockchain, powered by a public decentralized registry of physicians
+ 
 Notable: Partnered with Civic https://www.coinspeaker.com/2018/03/21/medcredits-civic-partner-first-blockchain-powered-physician-registry/
  
  
@@ -1192,6 +1246,7 @@ Notable: Partnered with Civic https://www.coinspeaker.com/2018/03/21/medcredits-
  
  
 a decentralized healthcare information ecosystem for patients, healthcare providers and data researchers, built on blockchain technology.
+ 
 Notable: -
  
  
@@ -1212,6 +1267,7 @@ Notable: -
  
  
 Verification system for prescriptions, claims and orders; medical records management; and personal health record
+ 
 Notable: -
  
  
@@ -1232,6 +1288,7 @@ Notable: -
  
  
 Platform for storage and transfer of electronic health records
+ 
 Notable: Traded on @bitfinex
  
  
@@ -1252,6 +1309,7 @@ Notable: Traded on @bitfinex
  
  
 Platform to allow patients to store and share their health data
+ 
 Notable: -
  
  
@@ -1272,6 +1330,7 @@ Notable: -
  
  
 Telemedicine platform that allows patients to share health data with doctors
+ 
 Notable: -
  
  
@@ -1292,6 +1351,7 @@ Notable: -
  
  
 Permissioned blockchain for tracking and tracing regulations to improve the operation of the supply chain in the pharmaceutical industry.
+ 
 Notable: -
  
  
@@ -1312,6 +1372,7 @@ Notable: -
  
  
 Telemedicine platform for the sharing and analysis of medical images.
+ 
 Notable: -
  
  
@@ -1332,6 +1393,7 @@ Notable: -
  
  
 A supply chain system for handling transactions, data transfer and storage, and payments of medical devices.
+ 
 Notable: -
  
  
@@ -1352,6 +1414,7 @@ Notable: -
  
  
 A global decentralized health platform that empowers patients with a self-sovereign health identity and aligns patients, providers, and payers to battle the global pandemic of chronic disease
+ 
 Notable: -
  
  
@@ -1372,6 +1435,7 @@ Notable: -
  
  
 Utilizes IoT sensors with blockchain and smart contracts to improve supply chain processes
+ 
 Notable: -
  
  
@@ -1392,6 +1456,7 @@ Notable: -
  
  
 Distributed system to provide ownership of medical records and health data.
+ 
 Notable: -
  
  
@@ -1412,6 +1477,7 @@ Notable: -
  
  
 Peer-to-peer network for buying and selling genomic data
+ 
 Notable: -
  
  
@@ -1432,6 +1498,7 @@ Notable: -
  
  
 a project that initiates, organizes and guarantees the openness of clinical trials of aging therapies
+ 
 Notable: -
  
  
@@ -1452,6 +1519,7 @@ Notable: -
  
  
 A healthcare peer-to-peer EMR storage network 
+ 
 Notable: -
  
  
@@ -1472,6 +1540,7 @@ Notable: -
  
  
 Provides platform-as-a-service to enable healthcare organizations to develop new healthcare applications and services.
+ 
 Notable: -
  
  
@@ -1492,6 +1561,7 @@ Notable: -
  
  
 Provides platform for self-governance of health data and allows others access through smart contracts by using their portable management tool kit.
+ 
 Notable: -
  
  
@@ -1512,6 +1582,7 @@ Notable: -
  
  
 An EHR that allows for the management of a medical organization based on smart contracts that allow for the monitoring of all proccess of interaction with the patient.
+ 
 Notable: -
  
  
@@ -1532,6 +1603,7 @@ Notable: -
  
  
 A mobile prescription exchange system for patients, doctors, and pharmacists to manage, prescribe, as well as dispense prescription medications.
+ 
 Notable: -
  
  
@@ -1552,6 +1624,7 @@ Notable: -
  
  
 A B2B and B2C platform to provide services primarily for the storage, process, and analysis of genomic data.
+ 
 Notable: -
  
  
@@ -1572,6 +1645,7 @@ Notable: -
  
  
 Health Nexus is an open-source blockchain protocol for handling data transfer, payments and storage specifically designed for healthcare
+ 
 Notable: -
  
  
@@ -1592,6 +1666,7 @@ Notable: -
  
  
 System to integrate and process health related data collected from different data sources.
+ 
 Notable: -
  
  
@@ -1612,6 +1687,7 @@ Notable: -
  
  
 Blockchain platform for decentralized administration and payments of healthcare.
+ 
 Notable: -
  
  
@@ -1632,6 +1708,7 @@ Notable: -
  
  
 Supply-chain management platform that allows healthcare suppliers and buyers to conduct business.
+ 
 Notable: -
  
  
@@ -1652,6 +1729,7 @@ Notable: -
  
  
 Platform to connect patients and doctors of rare or life-threatening diseases.
+ 
 Notable: -
  
  
@@ -1672,6 +1750,7 @@ Notable: -
  
  
 A privacy focused,, token-based healthcare finance system that utilizes blockchain to arbitrage, decentralize and provision payment of health services.
+ 
 Notable: -
  
  
@@ -1692,6 +1771,7 @@ Notable: -
  
  
 The Veris platform is a blockchain that specifically addresses the expenses in the American healthcare system. The platform is open source and takes advantage of smart contracts to replace portions of the eligibility through remittance process in the provisioning of healthcare services.
+ 
 Notable: -
  
  
@@ -1712,6 +1792,7 @@ Notable: -
  
  
 Marketplace for VR product and services
+ 
 Notable: -
  
  
@@ -1732,6 +1813,7 @@ Notable: -
  
  
 Mobile healthcare marketplace for telehealth, clinics, personalized service, and health data storage.
+ 
 Notable: -
  
  
@@ -1752,6 +1834,7 @@ Notable: -
  
  
 Enables patients to create and maintain a personal data store on a distributed public network
+ 
 Notable: -
  
  
@@ -1772,6 +1855,7 @@ Notable: -
  
  
 Epigenetic therapy for anti-aging where tokens are isssued as a right to a portion of distributable earnings.
+ 
 Notable: -
  
  
@@ -1792,6 +1876,7 @@ Notable: -
  
  
 A marketplace for genomic data and services
+ 
 Notable: -
  
  
