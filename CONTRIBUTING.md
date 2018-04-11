@@ -1,8 +1,8 @@
 # Contributing to Biomedical Blockchain Initiatives
 
 
-The Biomedical Blockchain Initiatives were initially developed by the Health Data and Design Innovation (HD2i) within the Institute of Next Generation Health (INGH) at Mount Sinai. 
-We strongly encourage you to contribute to our list by adding new initiatives, updating outdated information, correcting errors, or proposing new metrics you believe are useful to include. 
+The Biomedical Blockchain Initiatives were initially developed by the [Health Data and Design Innovation](http://hd2i.org) (HD2i) within the [Institute of Next Generation Health](http://www.nextgenhealthcare.org) (INGH) at the Icahn School of Medicine at Mount Sinai. 
+We strongly encourage you to contribute to this list by adding new initiatives, updating outdated information, correcting errors, or proposing new metrics you believe are useful to include. 
 
 To maintain the integrity of this list, we request that any changes or additon of new companies remain as objective as possible.
 
@@ -19,7 +19,7 @@ If you feel comfortable, you can use a pull request to propose changes or new in
 4. We'll approve/deny and update the README.md accordingly.
 
 ### Create an Issue
-If you don't feel as comfortable using a pull request, you can create an issue. In the issue, please list as many relevant details as you can. We will then review and update the README.md accordingly, in a timely manner.
+If you don't feel as comfortable using a pull request, you can [create an issue](https://github.com/HD2i/biomedical-blockchain/issues). In the issue, please list as many relevant details as you can. We will then review and update the README.md accordingly, in a timely manner.
 
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License.
