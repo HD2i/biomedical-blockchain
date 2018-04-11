@@ -2,6 +2,8 @@
 
 There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. At the [Health Data and Design Innovation Center](http://hd2i.org) at the [Icahn School of Medicine at Mount Sinai](http://icahn.mssm.edu) are following this trend closely, but it has been hard to keep up with the pace of new project announcements! That is why we are publicly releasing our internal database of biomedical initiatives built on blockchain technology; as a resource for the biomedical blockchain community to map the landscape of tools and use cases.
 
+[Contributions are welcome](https://github.com/HD2i/biomedical-blockchain/blob/master/CONTRIBUTING.md) and encouraged. Check out [this blog post](http://hd2i.org/blog/2018/04/05/mapping-the-biomedical-blockchain.html) for a complete description of our approach and methodology.
+
 ## Legend
 
 The following summary consists of:
