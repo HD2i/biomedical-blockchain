@@ -19,7 +19,12 @@ If you feel comfortable, you can use a pull request to propose changes or new in
 4. We'll approve/deny and update the README.md accordingly.
 
 ### Create an Issue
-If you don't feel as comfortable using a pull request, you can [create an issue](https://github.com/HD2i/biomedical-blockchain/issues). In the issue, please list as many relevant details as you can. We will then review and update the README.md accordingly, in a timely manner.
+If you don't feel as comfortable using a pull request, you can [create an issue](https://github.com/HD2i/biomedical-blockchain/issues). When creating the issue, make sure to tag it with the appropriate label. The available labels are: 
+* New Initiative: If you request to add a new initiative that is not already listed
+* Amend Initiative: If you request to amend an initiative that is already listed
+* Remove Initiative: If you request to remove an initiative that is no longer active
+
+In the issue, please list as many relevant details as you can. We will then review and update the README.md accordingly, in a timely manner.
 
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License.
