@@ -10,7 +10,7 @@ __status__ = "Prototype"
 
 # This code is used to create the formatted markdown text the drives the README.md on this repo
 # The content for the text comes from an unformatted csv called Master_List.csv, this is all of the respective
-# blochain company information that has been sourced by good old-fashioned manual labor (scouring website and transcribing)
+# blockchain company information that has been sourced by good old-fashioned manual labor (scouring website and transcribing)
 # Finally, you will find a series of functions that are used to format the strings in MD, which is subsequently,
 # stored into a dataframe. This dataframe then gets converted into pretty print via "tabulate" and saved to an .md file
 
@@ -114,13 +114,13 @@ df_md['VC Raise(M)'] = vc_raise_stack
 
 # First we open the README and write the intro text.
 read_files = glob.glob("./intro.txt")
-with open("README.md", "wb") as outfile:
+with open("../README.md", "wb") as outfile:
     for f in read_files:
         with open(f, "rb") as infile:
             outfile.write(infile.read())
 
 # Second we re-open the README as appending to, and write the table.
-f = open('./README.md', 'a')
+f = open('../README.md', 'a')
 f.write(" \n")
 f.write("____\n")
 f.write(" \n")
