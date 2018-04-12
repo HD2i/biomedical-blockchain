@@ -18,7 +18,7 @@ The following summary consists of:
  
 ____
  
-## Source List Current Total: __*95*__ 
+## Source List Current Total: __*93*__ 
  
 |                                                                                                                Site                                                                                                                |                          Name                           |              Category               |              Location              |                                                                        Code                                                                        |                                                       Demo                                                        |                                                                            TS                                                                             |  VC Raise(M)  |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|:-----------------------------------:|:----------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
@@ -112,10 +112,8 @@ ____
 |                                                      [<img src="https://ibcgroup.io/wp-content/uploads/2017/12/trustedhealth-big.png" width="80">](https://trustedhealth.io/)                                                      |             [trustedhealth](#trustedhealth)             |          Interoperability           |           United Kingdom           |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                    [<img src="https://i0.wp.com/blockchainhealthcarereview.com/wp-content/uploads/2017/12/Universal-Health-Coin.png?resize=228%2C251&ssl=1" width="80">](https://www.universalhealthcoin.com/)                     |     [Universal_Health_Coin](#universal_health_coin)     |             Marketplace             |       Augusta, Georgia, USA        |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                             [:page_facing_up:](http://www.universalhealthcoin.com/wp-content/uploads/UHCWhitePaper-V2.3.pdf)                              |       -       |
 |                                                             [<img src="https://i.vimeocdn.com/video/655062420_640.jpg" width="80">](https://www.verisfoundation.com/)                                                              |          [Veris_Foundation](#veris_foundation)          |        Stakeholder Alignment        |    Jersey City, New Jersey, USA    |        [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/VerisFoundation)        |                                                   :exclamation:                                                   |                                                [:page_facing_up:](https://veris.docsend.com/view/fbqysxf)                                                 |       -       |
-|              [<img src="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-1/27750454_183219635771968_3441183924035692551_n.png?_nc_cat=0&oh=7d5675e89dbaaa95e120c98dac0fd515&oe=5B5AB792" width="80">](https://vrmed.io)               |                    [VR_MED](#vr_med)                    |             Marketplace             |           Moscow, Russia           |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                   [<img src="https://www.coinstaker.com/wp-content/uploads/2018/01/Well_logo_H_Teal_CMYK.jpg" width="80">](https://joinwell.io/)                                                   |                      [WELL](#well)                      |             Marketplace             |   Santa Monica, California, USA    |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                       [<img src="https://ccn2017.wpengine.com/wp-content/uploads/2015/06/1-youbase.png" width="80">](https://www.youbase.io)                                                       |                   [Youbase](#youbase)                   |              Ownership              |           Englewood, CO            |            [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/YouBase)            |                                    [:computer:](https://developer.youbase.io)                                     |                                                   [:page_facing_up:](https://paper.youbase.io/content/)                                                   |      1.0      |
-|        [<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p200x200/22885965_1724221597650765_2274191608940029515_n.png?_nc_cat=0&oh=ac00641fbf7292a0e5121a0b4219ce58&oe=5B310E77" width="80">](http://youthereum.io/)        |                [Youthereum](#youthereum)                |                 nan                 |               Russia               |                                                                   :exclamation:                                                                    |                                                   :exclamation:                                                   |                                                                       :exclamation:                                                                       |       -       |
 |                                                                            [<img src="https://i.imgur.com/NjyUZs3.png" width="80">](https://zenome.io/)                                                                            |                    [Zenome](#zenome)                    |             Marketplace             |           Moscow, Russia           |            [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/zenome)             |                                                   :exclamation:                                                   |                                               [:page_facing_up:](https://zenome.io/download/whitepaper.pdf)                                               |       -       | 
 ____
 ## aimedis
@@ -2015,27 +2013,6 @@ The Veris platform is a blockchain that specifically addresses the expenses in t
 | Coin              | NEO                                                                                                                                  |
 | White Paper       | [:page_facing_up:](https://veris.docsend.com/view/fbqysxf)                                                                           | 
 ____
-## VR_MED
- 
- 
-[<img src="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-1/27750454_183219635771968_3441183924035692551_n.png?_nc_cat=0&oh=7d5675e89dbaaa95e120c98dac0fd515&oe=5B5AB792" width="200">](https://vrmed.io)
- 
- 
-Marketplace for VR product and services
- 
- 
- 
-|                   | Details        |
-|:------------------|:---------------|
-| Category          | Marketplace    |
-| Location          | Moscow, Russia |
-| Money Raised (M)  | -              |
-| Method of Funding | ICO            |
-| Github Profile    | :exclamation:  |
-| ICO Symbol        | VRMD           |
-| Coin              | ERC20          |
-| White Paper       | :exclamation:  | 
-____
 ## WELL
  
  
@@ -2077,27 +2054,6 @@ Enables patients to create and maintain a personal data store on a distributed p
 | ICO Symbol        | -                                                                                                                            |
 | Coin              | -                                                                                                                            |
 | White Paper       | [:page_facing_up:](https://paper.youbase.io/content/)                                                                        | 
-____
-## Youthereum
- 
- 
-[<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p200x200/22885965_1724221597650765_2274191608940029515_n.png?_nc_cat=0&oh=ac00641fbf7292a0e5121a0b4219ce58&oe=5B310E77" width="200">](http://youthereum.io/)
- 
- 
-Epigenetic therapy for anti-aging where tokens are isssued as a right to a portion of distributable earnings.
- 
- 
- 
-|                   | Details       |
-|:------------------|:--------------|
-| Category          | nan           |
-| Location          | Russia        |
-| Money Raised (M)  | -             |
-| Method of Funding | ICO           |
-| Github Profile    | :exclamation: |
-| ICO Symbol        | -             |
-| Coin              | ERC20         |
-| White Paper       | :exclamation: | 
 ____
 ## Zenome
  
