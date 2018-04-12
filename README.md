@@ -587,7 +587,7 @@ ____
 [<img src="https://tokenmarket.net/blockchain-static/ethereum/assets/datum-network/logo_big.png" width="200">](https://datum.org)
  
  
-NoSQL database backed by a blockchain ledger
+Marketplace for social and IoT data
  
  
  
