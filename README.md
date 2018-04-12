@@ -12,10 +12,10 @@ Check out [this blog post](http://hd2i.org/blog/2018/04/05/mapping-the-biomedica
 
 Criteria for mention:
 * **Code**: Must be publicly available and non-trivial.  White papers, tokens/token sales, road maps, forks without additional work, etc. are not considered.
-* **Demo**: Must have a publicly available demo or working product.  Private betas are not considered.
+* **Demo**: Must have a publicly available demo or working product.  Private betas are not considered.<br/>
     <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/desktop.png"/>  demo/product is a web app
     <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/tablet.png"/>  demo/product is a mobile app
-* **Technical Documentation (Docs)**: Must have a publicly available technical whitepaper/specification.  Non-technical implementations are not considered.
+* **Technical Documentation (Docs)**: Must have a publicly available technical whitepaper/specification.  Non-technical implementations are not considered.<br/>
     <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>  link to technical whitepaper/specification
 * **Professional investment ($MM)**: USD raised from professional investors.
  
