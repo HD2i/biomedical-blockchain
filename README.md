@@ -1,6 +1,6 @@
 # Biomedical Blockchain Initiatives
 
-![alt text](biomedical-blockchain-map.png)
+(biomedical-blockchain-map.png)[https://api.mapbox.com/styles/v1/zimmeee/cjfwus7rf1dbb2rmi78pn1ujw.html?fresh=true&title=true&access_token=pk.eyJ1IjoiemltbWVlZSIsImEiOiJjaXA2Nnl1M2owMDNveWJrbzB0bmFmcW9zIn0.3UHAx5MArJaWYsTCYhkVSw#1.7/31.444924/6.387816/0]
 
 There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. We have created this repository to map all of the biomedical blockchain initiatives worldwide in order to track the evolution of this emerging technology. 
 
