@@ -17,7 +17,7 @@ Criteria for mention:
   * <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/desktop.png"/> : Web app
   * <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/tablet.png"/> : Mobile app
 * **Technical Specifications (TS)**: Must have a publicly available technical whitepaper or technical specification.  Non-technical implementations are not considered.
-  * 📃 : A link to their technical whitepaper
+  * <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/> : A link to their technical whitepaper
 * **Professional investment(M)**: Amount raised from professional investors in USD in millions
  
 ____
