@@ -184,6 +184,7 @@ for i in range(len(df_unformatted_load)):
     f.write(" \n")
 
     f.write(tabulate(df_company_specific, [' ','Details'],tablefmt="pipe"))
+    f.write(" \n")
     f.write("____\n")
 
 # Finally, we close the markdown file
