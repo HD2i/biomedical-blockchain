@@ -130,8 +130,7 @@ headers = ['Site']
 headers.extend(list(df_md.columns))
 f.write(tabulate(df_md,headers, tablefmt="pipe", stralign= "center"))
 f.write(" \n")
-
-
+f.write("____\n")
 
 # Next we are looking to do a similiar process, but with the small company specific tables
 detail_params  =  ['Category' , 'Location','Money Raised (M)', 'Method of Funding',
