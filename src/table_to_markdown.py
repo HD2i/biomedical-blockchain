@@ -175,7 +175,7 @@ for i in range(len(df_unformatted_load)):
     f.write(df_unformatted_load['description'][i] + '\n')
     f.write(" \n")
     if df_unformatted_load['Notable'][i] == '-':
-        continue
+        pass
     else:
         f.write('Notable: ' + str(df_unformatted_load['Notable'][i]) + '\n')
 
