@@ -9,7 +9,7 @@ Check out [this blog post](http://hd2i.org/blog/2018/04/05/mapping-the-biomedica
 ## Legend
 
 The following summary consists of:
-* **Code**: Publicly available and non-trivial code (i.e. trivial including: white papers, tokens/token sales, not road maps, only a fork with no additional work)?
+* **Code**:Publicly available and non-trivial --This does not include white papers, tokens/token sales, road maps, forks without additional work, etc.
   * <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="20"> : A link to their github that contains this
 * **Demo**: Publicly available demo or working product? (This does not include private betas)
   * 💻 : A link to their demo if a website 
