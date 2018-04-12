@@ -985,7 +985,7 @@ Non-invasive diagnostics of blood glucose level, lung cancer, stomach ulcer and 
  
 Mobile platform to aggregate, organize, and share medical records. 
  
-Notable: CEO was on CNBC https://www.cnbc.com/video/2017/12/26/how-we-are-using-blockchain-technology-to-secure-your-health-records-heath-wizz-ceo.html
+*Notable: CEO was on CNBC https://www.cnbc.com/video/2017/12/26/how-we-are-using-blockchain-technology-to-secure-your-health-records-heath-wizz-ceo.html*
  
  
 |                   | Details                                                                                                                                 |
@@ -1086,7 +1086,7 @@ Personal Health Record, token and app ecosystem to improve healthcare access
  
 Project to combine emerging standards for access authorization and blockchain-based self-sovereign identity into a patient-centered health record infrastructure.
  
-Notable: Volunteer open-source project
+*Notable: Volunteer open-source project*
  
  
 |                   | Details                                                                                                                        |
@@ -1227,7 +1227,7 @@ Platform which uses AI to store, manage, and trade life data: medical records, s
  
 Luna is a community owned database that rewards individuals Luna Coins for contributing their DNA and other medical information.
  
-Notable: Ex-Illumina execs on CNBC https://www.cnbc.com/2017/12/18/luna-coin-project-sell-your-genetic-data-for-crypto-tokens.html
+*Notable: Ex-Illumina execs on CNBC https://www.cnbc.com/2017/12/18/luna-coin-project-sell-your-genetic-data-for-crypto-tokens.html*
  
  
 |                   | Details       |
@@ -1288,7 +1288,7 @@ Monetizing sports and health data
  
 Telemedicine on the blockchain, powered by a public decentralized registry of physicians
  
-Notable: Partnered with Civic https://www.coinspeaker.com/2018/03/21/medcredits-civic-partner-first-blockchain-powered-physician-registry/
+*Notable: Partnered with Civic https://www.coinspeaker.com/2018/03/21/medcredits-civic-partner-first-blockchain-powered-physician-registry/*
  
  
 |                   | Details                                                                 |
@@ -1349,7 +1349,7 @@ Verification system for prescriptions, claims and orders; medical records manage
  
 Platform for storage and transfer of electronic health records
  
-Notable: Traded on @bitfinex
+*Notable: Traded on @bitfinex*
  
  
 |                   | Details                                                                                                                           |
@@ -1450,7 +1450,7 @@ Telemedicine platform for the sharing and analysis of medical images.
  
 Platform for patients to store, manage, and share electronic health records as well as allow researchers to receive anonymized medical data in return for sustaining the network.
  
-Notable: A product of MIT Media Labs
+*Notable: A product of MIT Media Labs*
  
  
 |                   | Details                                                          |
@@ -1851,7 +1851,7 @@ Supply-chain management platform that allows healthcare suppliers and buyers to 
  
 Health information exchange that will secure health information and deliver patient records only with patient authorization.
  
-Notable: nan
+*Notable: nan*
  
  
 |                   | Details                 |
