@@ -1,6 +1,6 @@
 # Biomedical Blockchain Initiatives
 
-[github]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png  "Github Repository"
+
 
 [![map](biomedical-blockchain-map.png)](https://api.mapbox.com/styles/v1/zimmeee/cjfwus7rf1dbb2rmi78pn1ujw.html?fresh=true&title=true&access_token=pk.eyJ1IjoiemltbWVlZSIsImEiOiJjaXA2Nnl1M2owMDNveWJrbzB0bmFmcW9zIn0.3UHAx5MArJaWYsTCYhkVSw#1.7/31.444924/6.387816/0)
 
@@ -2080,3 +2080,6 @@ A marketplace for genomic data and services
 | Coin              | ERC20                                                                                                                       |
 | White Paper       | [:page_facing_up:](https://zenome.io/download/whitepaper.pdf)                                                               | 
 ____
+
+
+[github]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png  "Github Repository"
