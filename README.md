@@ -1103,27 +1103,6 @@ Data consolidation and exchange, doctor consult and referrals and medial infrast
 | Coin              | ERC20            |
 | White Paper       | -    | 
 ____
-<!-- ## Hearthy
- 
- 
-[<img src="https://icomood.com/media/cache/48/87/488773dd43a64f0b6ac933025fd8271c.jpg" width="200">](http://hearthy.co/)
- 
- 
-Personal Health Record, token and app ecosystem to improve healthcare access
- 
- 
- 
-|                   | Details                                                                                                                        |
-|:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| Category          | Patient Data Management                                                                                                        |
-| Location          | Vigo, Spain                                                                                                                    |
-| Money Raised (M)  | -                                                                                                                              |
-| Method of Funding | ICO                                                                                                                            |
-| Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/hearthyco) |
-| ICO Symbol        | HER                                                                                                                            |
-| Coin              | ERC20                                                                                                                          |
-| White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](http://hearthy.co/assets/images/Hearthy-whitepaper.pdf)                                                     | 
-____ -->
 ## hieofone
  
  
