@@ -1619,6 +1619,7 @@ ____
 
 Peer-to-peer network for buying and selling genomic data
 
+*Notable: Cofounded by George Church*
 
 
 |                   | Details                                                                                        |
