@@ -107,6 +107,7 @@ ____
 |                         [<img src="https://static1.squarespace.com/static/5a708340c027d82f766de3bd/t/5a708f1bc83025e26582668c/1523267191078/?format=1500w" width="80">](https://www.spirituspartners.com)                          |                  [Spiritus](#spiritus)                  |            Supply Chain             |     Edinburgh, United Kingdom      |                                                                   -                                                                                            |                                                   -                                                                                                                                                                      |                                                                       -                                                                                                                                                                                               |       -       |
 | [<img src="https://static.wixstatic.com/media/4b78ba_27700438c9724311abc1544cd684151b~mv2.png/v1/fill/w_72,h_84,al_c,usm_0.66_1.00_0.01/4b78ba_27700438c9724311abc1544cd684151b~mv2.png" width="80">](https://www.ssothealth.org)  |    [SSOT_Health_Blockchain](#ssot_health_blockchain)    |         Patient Data Management     |   Cambridge, Massachusetts, USA    |                                                                   -                                                                                            |                                                   -                                                                                                                                                                      |                                                                       -                                                                                                                                                                                               |       -       |
 |                                                       [<img src="https://foxico.io/static/uploads/logofile-1511391119916.png" width="80">](https://tge.synthiumhealth.com/)                                                        |           [Synthium_Health](#synthium_health)           |            Supply Chain             |       Marietta, Georgia, USA       |                                                                   -                                                                                            |                                                   -                                                                                                                                                                      |                                                                       -                                                                                                                                                                                               |      0.5      |
+|                                                       [<img src="https://tides.network/assets/logo.png" width="80">](https://tides.network)                                                        								 |           		   [Tides](#tides)  		           | Payments, Claims and Other Services |       San Francisco, CA, USA       |                                                                   -                                                                                            |                                                   -                                                                                                                                                                      |                                                                   	  -    																																															  |       -       |
 |                                                                         [<img src="https://timicoin.io/images/logo.svg" width="80">](https://timicoin.io)                                                                          |                  [Timicoin](#timicoin)                  |       Patient Data Management       |            Not Supplied            |                                                                   -                                                                                            |                                                   -                                                                                                                                                                      |                                                                       -                                                                                                                                                                                               |       -       |
 |                                                      [<img src="https://ibcgroup.io/wp-content/uploads/2017/12/trustedhealth-big.png" width="80">](https://trustedhealth.io/)                                                      |             [trustedhealth](#trustedhealth)             |          Digital Medicine           |           United Kingdom           |                                                                   -                                                                                            |                                                   -                                                                                                                                                                      |                                                                       -                                                                                                                                                                                               |       -       |
 |                    [<img src="https://i0.wp.com/blockchainhealthcarereview.com/wp-content/uploads/2017/12/Universal-Health-Coin.png?resize=228%2C251&ssl=1" width="80">](https://www.universalhealthcoin.com/)                     |     [Universal_Health_Coin](#universal_health_coin)     | Payments, Claims and Other Services |       Augusta, Georgia, USA        |                                                                   -                                                                                            |                                                   -                                                                                                                                                                      | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](http://www.universalhealthcoin.com/wp-content/uploads/UHCWhitePaper-V2.3.pdf)                                                                            |       -       |
@@ -131,10 +132,10 @@ Platform to store and share medical records
 | Location          | Steyl, Netherlands |
 | Money Raised (M)  | -                  |
 | Method of Funding | ICO                |
-| Github Profile    | -      |
+| Github Profile    | -      			 |
 | ICO Symbol        | AIM                |
-| Coin              | ERC20              |
-| White Paper       | -      |
+| Network           | Ethereum           |
+| White Paper       | -      			 |
 ____
 ## Ambrosus
 
@@ -154,7 +155,7 @@ Quality control and assurance of pharmaceutical products
 | Method of Funding | ICO                                                                                                                           |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/ambrosus) |
 | ICO Symbol        | AMB                                                                                                                           |
-| Coin              | ERC20                                                                                                                         |
+| Network           | Ethereum                                                                                                                         |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)                                                 |
 ____
 ## AMCHART
@@ -175,7 +176,7 @@ Incentive based EHR management.
 | Method of Funding | ICO                                                |
 | Github Profile    | -                                      |
 | ICO Symbol        | AMC                                                |
-| Coin              | ERC20                                              |
+| Network           | Ethereum                                              |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](http://amchart.io/white-paper/) |
 ____
 ## ARNA_Panacea
@@ -196,7 +197,7 @@ Research oriented data exchange service focused on cancer.
 | Method of Funding | -                                                                         |
 | Github Profile    | -                                                             |
 | ICO Symbol        | ARNA                                                                      |
-| Coin              | ERC20                                                                     |
+| Network           | Ethereum                                                                     |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf) |
 ____
 ## Beat
@@ -217,7 +218,7 @@ Consumer health pipeline for sharing wearable and fitness data with EHR's
 | Method of Funding | ICO                                                      |
 | Github Profile    | -                                            |
 | ICO Symbol        | BEAT                                                     |
-| Coin              | ERC20                                                    |
+| Network           | Ethereum                                                    |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://beat.org/beat_whitepaper.pdf) |
 ____
 ## Bitmark
@@ -238,7 +239,7 @@ A universal system for digital property rights
 | Method of Funding | SEED                                                                                                                                         |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/project-bitmark/bitmark) |
 | ICO Symbol        | BTM                                                                                                                                          |
-| Coin              | BTC                                                                                                                                          |
+| Network           | BTC                                                                                                                                          |
 | White Paper       | -                                                                                                                                |
 ____
 ## BlockMedx
@@ -259,7 +260,7 @@ Electronic prescription drug supply chain management, focused on opioids and oth
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/blockmedx) |
 | ICO Symbol        | MDX                                                                                                                            |
-| Coin              | ERC20                                                                                                                          |
+| Network           | Ethereum                                                                                                                          |
 | White Paper       | -                                                                                                                  |
 ____
 ## BlockRx
@@ -280,7 +281,7 @@ Pharmaceutical supply chain, coupled with clinical trial outcomes and regulation
 | Method of Funding | ICO                                                                                                   |
 | Github Profile    | -                                                                                         |
 | ICO Symbol        | BKRx                                                                                                  |
-| Coin              | -                                                                                                     |
+| Network           | -                                                                                                     |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://www.blockrx.com/wp-content/uploads/2017/10/Whitepaper-Design-Extended.pdf) |
 ____
 ## BowheadHealth
@@ -301,7 +302,7 @@ Hardware device that monitors a customer's biometric data to dispense medicine a
 | Method of Funding | ICO                                                                                         |
 | Github Profile    | -                                                                               |
 | ICO Symbol        | AHT                                                                                         |
-| Coin              | ERC20                                                                                       |
+| Network           | Ethereum                                                                                       |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU) |
 ____
 ## Bron.tech
@@ -322,7 +323,7 @@ Platform for data sharing and identity management
 | Method of Funding | SEED                               |
 | Github Profile    | -                      |
 | ICO Symbol        | BRON                               |
-| Coin              | -                                  |
+| Network           | -                                  |
 | White Paper       | -                      |
 ____
 ## BurstIQ
@@ -343,7 +344,7 @@ Personalized data integration across EHR , wearables and social profile
 | Method of Funding | SEED                                                                                                                         |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/BurstIQ) |
 | ICO Symbol        | BiQ                                                                                                                          |
-| Coin              | -                                                                                                                            |
+| Network           | -                                                                                                                            |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://www.burstiq.com/wp-content/uploads/2017/08/BurstIQ-whitepaper_19Jul2017reduced.pdf)               |
 ____
 ## CareChain
@@ -364,7 +365,7 @@ Consortium within Swedish ecosystem to tackle regulatory challenges related to b
 | Method of Funding | -                                                                                                                              |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/carechain) |
 | ICO Symbol        | -                                                                                                                              |
-| Coin              | -                                                                                                                              |
+| Network           | -                                                                                                                              |
 | White Paper       | -                                                                                                                  |
 ____
 ## CareMe
@@ -385,7 +386,7 @@ Connects nurses to patients in need of care
 | Method of Funding | -                                                                                                                            |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/care4me) |
 | ICO Symbol        | -                                                                                                                            |
-| Coin              | ERC20                                                                                                                        |
+| Network           | Ethereum                                                                                                                        |
 | White Paper       | -                                                                                                                |
 ____
 ## CareX_Blockchain_Platform
@@ -406,7 +407,7 @@ A method for the payment of health care services.
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/CareXTech) |
 | ICO Symbol        | CARE                                                                                                                           |
-| Coin              | ERC20                                                                                                                          |
+| Network           | Ethereum                                                                                                                          |
 | White Paper       | -                                                                                                                  |
 ____
 ## Citizen_Health
@@ -427,7 +428,7 @@ A peer-to-peer health market owned and controlled by the people & physicians.
 | Method of Funding | ICO                  |
 | Github Profile    | -        |
 | ICO Symbol        | MDX                  |
-| Coin              | ERC20                |
+| Network           | Ethereum                |
 | White Paper       | -        |
 ____
 ## Clinicoin
@@ -447,7 +448,7 @@ Clinicoin is a blockchain platform that pays you to be healthy
 | Method of Funding | ICO                                                                                                                             |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/clinicoin/) |
 | ICO Symbol        | CLIN                                                                                                                            |
-| Coin              | ERC20                                                                                                                           |
+| Network           | Ethereum                                                                                                                           |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://www.mosio.com/noidx/Clinicoin_Whitepaper_2018.pdf)                                                   |
 ____
 ## CoinHealth
@@ -467,8 +468,8 @@ Mobile platform for medical records, verification, and payment solutions
 | Money Raised (M)  | $0.1                                                                                                                                       |
 | Method of Funding | ICO                                                                                                                                        |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/CoinHealth/CoinHealth) |
-| ICO Symbol        | COINHEALTH                                                                                                                                 |
-| Coin              | WAVES                                                                                                                                      |
+| ICO Symbol        | NetworkHEALTH                                                                                                                                 |
+| Network           | WAVES                                                                                                                                      |
 | White Paper       | -                                                                                                                              |
 ____
 ## CoralHealth
@@ -489,7 +490,7 @@ Aligning the interests of different players in the healthcare ecosystem
 | Method of Funding | -                                                                                                                                  |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/mycoralhealth) |
 | ICO Symbol        | -                                                                                                                                  |
-| Coin              | -                                                                                                                                  |
+| Network           | -                                                                                                                                  |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://docsend.com/view/4xdqkp6)                                                                               |
 ____
 ## Cryogen
@@ -510,7 +511,7 @@ Reversible freezing of donor organs and organisms for the purpose of life extens
 | Method of Funding | ICO              |
 | Github Profile    | -    |
 | ICO Symbol        | CRYO             |
-| Coin              | ERC20            |
+| Network           | Ethereum            |
 | White Paper       | -    |
 ____
 ## CureCoin
@@ -531,7 +532,7 @@ A protein folding simulation Distributed Computing Network
 | Method of Funding | ICO                                                                                                                                          |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/cygnusxi/CurecoinSource) |
 | ICO Symbol        | CURE                                                                                                                                         |
-| Coin              | ERC20                                                                                                                                        |
+| Network           | Ethereum                                                                                                                                        |
 | White Paper       | -                                                                                                                                |
 ____
 ## Curisium
@@ -552,7 +553,7 @@ Platform to allow payers, providers, and life science companies to engage with p
 | Method of Funding | SEED                               |
 | Github Profile    | -                      |
 | ICO Symbol        | AIM                                |
-| Coin              | -                                  |
+| Network           | -                                  |
 | White Paper       | -                      |
 ____
 ## CoverUs
@@ -573,7 +574,7 @@ Broker your health data to interested parties
 | Method of Funding | -                                   |
 | Github Profile    | -                       |
 | ICO Symbol        | -                                   |
-| Coin              | -                                   |
+| Network           | -                                   |
 | White Paper       | -                       |
 ____
 ## Datum
@@ -594,7 +595,7 @@ Marketplace for social and IoT data
 | Method of Funding | ICO                                                                                                                               |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/datumnetwork) |
 | ICO Symbol        | DAT                                                                                                                               |
-| Coin              | ERC20                                                                                                                             |
+| Network           | Ethereum                                                                                                                             |
 | White Paper       | -                                                                                                                     |
 ____
 ## Dentacoin
@@ -615,7 +616,7 @@ Dental care marketplace
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/Dentacoin) |
 | ICO Symbol        | DCN                                                                                                                            |
-| Coin              | ERC20                                                                                                                          |
+| Network           | Ethereum                                                                                                                          |
 | White Paper       | -                                                                                                                  |
 ____
 ## DentalFix
@@ -636,7 +637,7 @@ Dental clinics and the supply chain.
 | Method of Funding | ICO                      |
 | Github Profile    | -            |
 | ICO Symbol        | DFBT                     |
-| Coin              | WAVES                    |
+| Network           | WAVES                    |
 | White Paper       | -            |
 ____
 ## Digipharm
@@ -657,7 +658,7 @@ Value based healthcare access
 | Method of Funding | -                |
 | Github Profile    | -    |
 | ICO Symbol        | -                |
-| Coin              | -                |
+| Network           | -                |
 | White Paper       | -    |
 ____
 ## Doc_Coin
@@ -678,7 +679,7 @@ Telehealth, expedited care and access
 | Method of Funding | ICO                                                                                                                             |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/DocCoinICO) |
 | ICO Symbol        | DOC                                                                                                                             |
-| Coin              | ERC20                                                                                                                           |
+| Network           | Ethereum                                                                                                                           |
 | White Paper       | -                                                                                                                   |
 ____
 ## doc.ai
@@ -699,7 +700,7 @@ A mobile app for aquiring and exploring -OMICS data
 | Method of Funding | ICO                                                                                                                         |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/doc-AI) |
 | ICO Symbol        | NRN                                                                                                                         |
-| Coin              | ERC20                                                                                                                       |
+| Network           | Ethereum                                                                                                                       |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1508776745697)                    |
 ____
 ## EarthMedz
@@ -720,7 +721,7 @@ Matching specialists and patients with rare conditions
 | Method of Funding | ICO                 |
 | Github Profile    | -       |
 | ICO Symbol        | ETD                 |
-| Coin              | ERC20               |
+| Network           | Ethereum               |
 | White Paper       | -       |
 ____
 ## ELCoin
@@ -741,7 +742,7 @@ Expanding the availability of innovative medical equipment
 | Method of Funding | ICO                                                                                                                                                |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/ElcoinCurrency/ElcoinContract) |
 | ICO Symbol        | ELC                                                                                                                                                |
-| Coin              | ERC20                                                                                                                                              |
+| Network           | Ethereum                                                                                                                                              |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://elcoin.io/White_Paper%200.9_v3.pdf)                                                                                     |
 ____
 ## Elige.re
@@ -762,7 +763,7 @@ Peer shared computational power for protein folding
 | Method of Funding | ICO                                                                                                                          |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/eligere) |
 | ICO Symbol        | ELG                                                                                                                          |
-| Coin              | ERC20                                                                                                                        |
+| Network           | Ethereum                                                                                                                        |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](http://www.elige.re/whitepaper.pdf)                                                                       |
 ____
 ## Embleema
@@ -783,7 +784,7 @@ PatientTruth for cloud based medical records
 | Method of Funding | -                                                                                                                                      |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/Embleema/Embleema) |
 | ICO Symbol        | -                                                                                                                                      |
-| Coin              | -                                                                                                                                      |
+| Network           | -                                                                                                                                      |
 | White Paper       | -                                                                                                                          |
 ____
 ## Encrypgen
@@ -804,7 +805,7 @@ Cloud storage and sharing of genomic data
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/encrypgen) |
 | ICO Symbol        | DNA                                                                                                                            |
-| Coin              | ERC20                                                                                                                          |
+| Network           | Ethereum                                                                                                                          |
 | White Paper       | -                                                                                                                  |
 ____
 ## Enome
@@ -825,7 +826,7 @@ Allows consumers to anonymously share their data for medical research.
 | Method of Funding | -                            |
 | Github Profile    | -                |
 | ICO Symbol        | -                            |
-| Coin              | -                            |
+| Network           | -                            |
 | White Paper       | -                |
 ____
 ## Eterly
@@ -846,7 +847,7 @@ Health and fitness advisor focusing on longevity, using token-based incentives
 | Method of Funding | ICO               |
 | Github Profile    | -     |
 | ICO Symbol        | LTY               |
-| Coin              | ERC20             |
+| Network           | Ethereum             |
 | White Paper       | -     |
 ____
 ## Etheal
@@ -867,7 +868,7 @@ Trusted review system for medical tourism
 | Method of Funding | ICO                               |
 | Github Profile    | -                     |
 | ICO Symbol        | HEAL                              |
-| Coin              | ERC20                             |
+| Network           | Ethereum                             |
 | White Paper       | -                     |
 ____
 ## Faima
@@ -888,7 +889,7 @@ AI driven diagnosis and clinical decision support
 | Method of Funding | ICO              |
 | Github Profile    | -    |
 | ICO Symbol        | MEDS             |
-| Coin              | ERC20            |
+| Network           | Ethereum            |
 | White Paper       | -    |
 ____
 ## FarmaTrust
@@ -909,7 +910,7 @@ a platform for tracking drug authenticity
 | Method of Funding | ICO             |
 | Github Profile    | -   |
 | ICO Symbol        | FTT             |
-| Coin              | ERC20           |
+| Network           | Ethereum           |
 | White Paper       | -   |
 ____
 ## Gem.co
@@ -930,7 +931,7 @@ Allows individuals to benefit from the value of their own data
 | Method of Funding | SERIES                                                                                                                     |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/GemHQ) |
 | ICO Symbol        | GEM                                                                                                                        |
-| Coin              | ERC20                                                                                                                      |
+| Network           | Ethereum                                                                                                                      |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://gem.co/wp-content/uploads/2016/10/GemOSPlatformWhitepaper.pdf)                                  |
 ____
 ## Hashed_Health
@@ -951,7 +952,7 @@ A healthcare innovation consultancy focused on accelerating meaningful innovatio
 | Method of Funding | SEED                      |
 | Github Profile    | -             |
 | ICO Symbol        | -                         |
-| Coin              | -                         |
+| Network           | -                         |
 | White Paper       | -             |
 ____
 ## Hayver
@@ -972,7 +973,7 @@ Advanced monitoring platform to address drug and alcohol addiction
 | Method of Funding | -                |
 | Github Profile    | -    |
 | ICO Symbol        | -                |
-| Coin              | ERC-20/223       |
+| Network           | ERC-20/223       |
 | White Paper       | -    |
 ____
 ## HealPoint
@@ -993,7 +994,7 @@ Second opinion platform for medical diagnostics
 | Method of Funding | ICO                          |
 | Github Profile    | -                |
 | ICO Symbol        | HLP                          |
-| Coin              | ERC20                        |
+| Network           | Ethereum                        |
 | White Paper       | -                |
 ____
 ## Health_Monitor
@@ -1014,7 +1015,7 @@ Non-invasive diagnostics of blood glucose level, lung cancer, stomach ulcer and 
 | Method of Funding | ICO                         |
 | Github Profile    | -               |
 | ICO Symbol        | HLC                         |
-| Coin              | ERC20                       |
+| Network           | Ethereum                       |
 | White Paper       | -               |
 ____
 ## Health_Wizz
@@ -1036,7 +1037,7 @@ Mobile platform to aggregate, organize, and share medical records.
 | Method of Funding | ICO                                                                                                                                     |
 | Github Profile    | -                                                                                                                           |
 | ICO Symbol        | -                                                                                                                                       |
-| Coin              | -                                                                                                                                       |
+| Network           | -                                                                                                                                       |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://daks2k3a4ib2z.cloudfront.net/586ebe41ba9f9499729002dc/59e6211d76c4d200017c6dc5_HealthWizz_White%20Paper.pdf) |
 ____
 ## Healthcombix
@@ -1057,7 +1058,7 @@ Healthcare blockchain, distributed ledger, and decentralized network strategy an
 | Method of Funding | -                                                |
 | Github Profile    | -                                    |
 | ICO Symbol        | -                                                |
-| Coin              | -                                                |
+| Network           | -                                                |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](http://www.healthcombix.com/) |
 ____
 ## HealthLinkages
@@ -1078,7 +1079,7 @@ Uses blockchain-inspired technology to allow healthcare institutions to trust an
 | Method of Funding | SEED                              |
 | Github Profile    | -                     |
 | ICO Symbol        | -                                 |
-| Coin              | -                                 |
+| Network           | -                                 |
 | White Paper       | -                     |
 ____
 ## Healthureum
@@ -1099,7 +1100,7 @@ Data consolidation and exchange, doctor consult and referrals and medial infrast
 | Method of Funding | ICO              |
 | Github Profile    | -    |
 | ICO Symbol        | HHEM             |
-| Coin              | ERC20            |
+| Network           | Ethereum            |
 | White Paper       | -    |
 ____
 ## hieofone
@@ -1121,7 +1122,7 @@ Project to combine emerging standards for access authorization and blockchain-ba
 | Method of Funding | -                                                                                                                              |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/shihjay2/) |
 | ICO Symbol        | -                                                                                                                              |
-| Coin              | -                                                                                                                              |
+| Network           | -                                                                                                                              |
 | White Paper       | -                                                                                                                  |
 ____
 ## hit_Foundation
@@ -1142,7 +1143,7 @@ Marketplace for personal health data
 | Method of Funding | ICO                                                                                                      |
 | Github Profile    | -                                                                                            |
 | ICO Symbol        | HIT                                                                                                      |
-| Coin              | ERC20                                                                                                    |
+| Network           | Ethereum                                                                                                    |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://hit.foundation/wp-content/uploads/2018/02/Whitepaper-HIT-foundation-V1_2.pdf) |
 ____
 ## Ingeniciel
@@ -1163,7 +1164,7 @@ Store and manage medical records
 | Method of Funding | ICO                                                                                                                                    |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/pibouv/ingeniciel) |
 | ICO Symbol        | INGCL                                                                                                                                  |
-| Coin              | NXT                                                                                                                                    |
+| Network           | NXT                                                                                                                                    |
 | White Paper       | -                                                                                                                          |
 ____
 ## Iryo
@@ -1184,7 +1185,7 @@ Health record storage platform, with an anonymous query interface. Controls for 
 | Method of Funding | ICO                                                                                                                              |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/iryonetwork) |
 | ICO Symbol        | IRYO                                                                                                                             |
-| Coin              | EOS                                                                                                                              |
+| Network           | EOS                                                                                                                              |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://iryo.io/iryo_whitepaper.pdf)                                                                          |
 ____
 ## Linda_Healthcare_
@@ -1205,7 +1206,7 @@ Primary care telemedicine A.I. chatbot
 | Method of Funding | ICO                                                                                             |
 | Github Profile    | -                                                                                   |
 | ICO Symbol        | LNDA                                                                                            |
-| Coin              | ERC20                                                                                           |
+| Network           | Ethereum                                                                                           |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://linda.healthcare/media/LindaHealthcare_WhitePaper_Final_Revised.pdf) |
 ____
 ## Litra
@@ -1226,7 +1227,7 @@ Free electronic health records running on the Litra blockchain
 | Method of Funding | ICO                     |
 | Github Profile    | -           |
 | ICO Symbol        | LTA                     |
-| Coin              | Litecoin                |
+| Network           | Litecoin                |
 | White Paper       | -           |
 ____
 ## Longenesis
@@ -1247,7 +1248,7 @@ Platform which uses AI to store, manage, and trade life data: medical records, s
 | Method of Funding | ICO           |
 | Github Profile    | - |
 | ICO Symbol        | -             |
-| Coin              | LifePound     |
+| Network           | LifePound     |
 | White Paper       | - |
 ____
 ## LunaDNA
@@ -1269,7 +1270,7 @@ Luna is a community owned database that rewards individuals Luna Coins for contr
 | Method of Funding | SEED,ICO           |
 | Github Profile    | -                  |
 | ICO Symbol        | -                  |
-| Coin              | -                  |
+| Network           | -                  |
 | White Paper       | -                  |
 ____
 ## Luven_Diagnostic
@@ -1290,7 +1291,7 @@ Early stage cancer diagnostic
 | Method of Funding | ICO              |
 | Github Profile    | -    |
 | ICO Symbol        | LVN              |
-| Coin              | ERC20            |
+| Network           | Ethereum            |
 | White Paper       | -    |
 ____
 ## Lympo
@@ -1311,7 +1312,7 @@ Monetizing sports and health data
 | Method of Funding | ICO                                                                                                                                              |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/LympoICO/ico-smartcontracts) |
 | ICO Symbol        | LYM                                                                                                                                              |
-| Coin              | ERC20                                                                                                                                            |
+| Network           | Ethereum                                                                                                                                            |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://lympo.io/wp-content/uploads/2017/12/whitepaper.pdf?v5)                                                                |
 ____
 ## MedCredits
@@ -1333,7 +1334,7 @@ Telemedicine on the blockchain, powered by a public decentralized registry of ph
 | Method of Funding | ICO                                                                     |
 | Github Profile    | -                                                           |
 | ICO Symbol        | MEDX                                                                    |
-| Coin              | ERC20                                                                   |
+| Network           | Ethereum                                                                   |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://medcredits.io/docs/MedCreditsWhitePaper.pdf) |
 ____
 ## MediBloc
@@ -1354,7 +1355,7 @@ a decentralized healthcare information ecosystem for patients, healthcare provid
 | Method of Funding | ICO                                                                                                                           |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/Medibloc) |
 | ICO Symbol        | QTUM                                                                                                                          |
-| Coin              | MED                                                                                                                           |
+| Network           | MED                                                                                                                           |
 | White Paper       | -                                                                                                                 |
 ____
 ## MediBond
@@ -1375,7 +1376,7 @@ Verification system for prescriptions, claims and orders; medical records manage
 | Method of Funding | ICO                               |
 | Github Profile    | -                     |
 | ICO Symbol        | MEDI                              |
-| Coin              | ERC20                             |
+| Network           | Ethereum                             |
 | White Paper       | -                     |
 ____
 ## Medicalchain
@@ -1397,7 +1398,7 @@ Platform for storage and transfer of electronic health records
 | Method of Funding | ICO                                                                                                                               |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/medicalchain) |
 | ICO Symbol        | MTN                                                                                                                               |
-| Coin              | ERC20                                                                                                                             |
+| Network           | Ethereum                                                                                                                             |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://medicalchain.com/Medicalchain-Whitepaper-EN.pdf)                                                       |
 ____
 ## MediChain
@@ -1418,7 +1419,7 @@ Platform to allow patients to store and share their health data
 | Method of Funding | -                                                                                                                              |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/medichain) |
 | ICO Symbol        | MCU                                                                                                                            |
-| Coin              | ERC20                                                                                                                          |
+| Network           | Ethereum                                                                                                                          |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://docs.google.com/document/d/1CcC0TunMv_utiQwXlD9gysj1yc2QAj5jQ8jRAuCla9k/edit)                       |
 ____
 ## medicohealth
@@ -1439,7 +1440,7 @@ Telemedicine platform that allows patients to share health data with doctors
 | Method of Funding | SEED,ICO            |
 | Github Profile    | -       |
 | ICO Symbol        | MHP                 |
-| Coin              | ERC20               |
+| Network           | Ethereum               |
 | White Paper       | -       |
 ____
 ## MediLedger
@@ -1460,7 +1461,7 @@ Permissioned blockchain for tracking and tracing regulations to improve the oper
 | Method of Funding | -                                                                                                                                                         |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/chronicled/mediledger)                |
 | ICO Symbol        | -                                                                                                                                                         |
-| Coin              | ERC721                                                                                                                                                    |
+| Network           | Ethereum                                                                                                                                                    |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://uploads-ssl.webflow.com/59f37d05831e85000160b9b4/5aa358c647bb6800017a018b_MediLedger%20Project%202017%20Progress%20Report.pdf) |
 ____
 ## MedNetwork
@@ -1481,7 +1482,7 @@ Telemedicine platform for the sharing and analysis of medical images.
 | Method of Funding | ICO              |
 | Github Profile    | -    |
 | ICO Symbol        | MEDAI            |
-| Coin              | ERC20            |
+| Network           | Ethereum            |
 | White Paper       | -    |
 ____
 ## MedRec
@@ -1503,7 +1504,7 @@ Platform for patients to store, manage, and share electronic health records as w
 | Method of Funding | -                                                                |
 | Github Profile    | -                                                    |
 | ICO Symbol        | -                                                                |
-| Coin              | -                                                                |
+| Network           | -                                                                |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](http://dci.mit.edu/assets/papers/eckblaw.pdf) |
 ____
 ## MedXchange
@@ -1524,7 +1525,7 @@ A supply chain system for handling transactions, data transfer and storage, and 
 | Method of Funding | ICO                                                                                            |
 | Github Profile    | -                                                                                  |
 | ICO Symbol        | MEDCASH                                                                                        |
-| Coin              | ERC20                                                                                          |
+| Network           | Ethereum                                                                                          |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://docs.wixstatic.com/ugd/a6d7cc_ccd72646ac6e4217be3b19d0c04d9025.pdf) |
 ____
 ## minthealth
@@ -1545,7 +1546,7 @@ A global decentralized health platform that empowers patients with a self-sovere
 | Method of Funding | ICO                        |
 | Github Profile    | -              |
 | ICO Symbol        | VIDA                       |
-| Coin              | ERC20                      |
+| Network           | Ethereum                      |
 | White Paper       | -              |
 ____
 ## modum
@@ -1566,7 +1567,7 @@ Utilizes IoT sensors with blockchain and smart contracts to improve supply chain
 | Method of Funding | ICO                                                                                                                           |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/modum-io) |
 | ICO Symbol        | MOD                                                                                                                           |
-| Coin              | ERC20                                                                                                                         |
+| Network           | Ethereum                                                                                                                         |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf)                                   |
 ____
 ## MyMedis
@@ -1587,7 +1588,7 @@ Distributed system to provide ownership of medical records and health data.
 | Method of Funding | ICO                                                                    |
 | Github Profile    | -                                                          |
 | ICO Symbol        | MEDIS                                                                  |
-| Coin              | nan                                                                    |
+| Network           | nan                                                                    |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://mymedis.in/documents/MEDIS-White-Paper.pdf) |
 ____
 ## nanoVision
@@ -1608,7 +1609,7 @@ Platform to aggregate and authenticate research data
 | Method of Funding | -                            |
 | Github Profile    | -                |
 | ICO Symbol        | -                            |
-| Coin              | -                            |
+| Network           | -                            |
 | White Paper       | -                |
 ____
 ## Nebula_Genomics
@@ -1630,7 +1631,7 @@ Peer-to-peer network for buying and selling genomic data
 | Method of Funding | SEED,ICO                                                                                       |
 | Github Profile    | -                                                                                  |
 | ICO Symbol        | -                                                                                              |
-| Coin              | ERC20                                                                                          |
+| Network           | Ethereum                                                                                          |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://www.nebulagenomics.io/assets/documents/NEBULA_whitepaper_v4.52.pdf) |
 ____
 ## Open_Longevity
@@ -1651,7 +1652,7 @@ a project that initiates, organizes and guarantees the openness of clinical tria
 | Method of Funding | ICO              |
 | Github Profile    | -    |
 | ICO Symbol        | YEAR             |
-| Coin              | ERC20            |
+| Network           | Ethereum            |
 | White Paper       | -    |
 ____
 ## Patientory
@@ -1672,7 +1673,7 @@ A healthcare peer-to-peer EMR storage network
 | Method of Funding | ICO                                                                  |
 | Github Profile    | -                                                        |
 | ICO Symbol        | PTOY                                                                 |
-| Coin              | ERC20                                                                |
+| Network           | Ethereum                                                                |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://patientory.com/patientory_whitepaper.pdf) |
 ____
 ## PokitDok
@@ -1693,7 +1694,7 @@ Provides platform-as-a-service to enable healthcare organizations to develop new
 | Method of Funding | SEED                                                                                                                             |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/pokitdok)    |
 | ICO Symbol        | CURE                                                                                                                             |
-| Coin              | -                                                                                                                                |
+| Network           | -                                                                                                                                |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://pokitdok.com/wp-content/themes/pokitdok2017/dokchain/static/data/DokChainWhitepaper20170926Draft.pdf) |
 ____
 ## Proof.Work
@@ -1714,7 +1715,7 @@ Provides platform for self-governance of health data and allows others access th
 | Method of Funding | -                       |
 | Github Profile    | -           |
 | ICO Symbol        | -                       |
-| Coin              | -                       |
+| Network           | -                       |
 | White Paper       | -           |
 ____
 ## Robomed_Network
@@ -1735,7 +1736,7 @@ An EHR that allows for the management of a medical organization based on smart c
 | Method of Funding | ICO                                |
 | Github Profile    | -                      |
 | ICO Symbol        | RBM                                |
-| Coin              | ERC20                              |
+| Network           | Ethereum                              |
 | White Paper       | -                      |
 ____
 ## ScalaMed
@@ -1756,7 +1757,7 @@ A mobile prescription exchange system for patients, doctors, and pharmacists to 
 | Method of Funding | SEED                               |
 | Github Profile    | -                      |
 | ICO Symbol        | -                                  |
-| Coin              | -                                  |
+| Network           | -                                  |
 | White Paper       | -                      |
 ____
 ## Shivom
@@ -1777,7 +1778,7 @@ A B2B and B2C platform to provide services primarily for the storage, process, a
 | Method of Funding | ICO                                                        |
 | Github Profile    | -                                              |
 | ICO Symbol        | OMX                                                        |
-| Coin              | ERC20                                                      |
+| Network           | Ethereum                                                      |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://shivom.io/files/Whitepaper.pdf) |
 ____
 ## Simply_Vital_Health
@@ -1798,7 +1799,7 @@ Health Nexus is an open-source blockchain protocol for handling data transfer, p
 | Method of Funding | SEED,ICO                                                                                                                          |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/Health-Nexus) |
 | ICO Symbol        | HLTH                                                                                                                              |
-| Coin              | ERC20                                                                                                                             |
+| Network           | Ethereum                                                                                                                             |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://docsend.com/view/cuufmc5)                                                                              |
 ____
 ## SmartHealthcare
@@ -1819,7 +1820,7 @@ System to integrate and process health related data collected from different dat
 | Method of Funding | ICO                                                                                                                                        |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/smarthealthcaretoday/) |
 | ICO Symbol        | SHC                                                                                                                                        |
-| Coin              | ERC20                                                                                                                                      |
+| Network           | Ethereum                                                                                                                                      |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://smarthealthcare.today/resources/whitepaper.pdf)                                                                 |
 ____
 ## Solve.Care
@@ -1840,7 +1841,7 @@ Blockchain platform for decentralized administration and payments of healthcare.
 | Method of Funding | ICO                                                                                                                            |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/SolveCare) |
 | ICO Symbol        | CAN                                                                                                                            |
-| Coin              | ERC20                                                                                                                          |
+| Network           | Ethereum                                                                                                                          |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://solve.care/solvecare-documents?l=en)                                                                |
 ____
 ## Spiritus
@@ -1861,7 +1862,7 @@ Solution to allow all involved parties to record evidence of service for critica
 | Method of Funding | -                         |
 | Github Profile    | -             |
 | ICO Symbol        | -                         |
-| Coin              | -                         |
+| Network           | -                         |
 | White Paper       | -             |
 ____
 ## SSOT_Health_Blockchain
@@ -1882,7 +1883,7 @@ Medical records system to enable patients to own and control their medical histo
 | Method of Funding | ICO                                |
 | Github Profile    | -                      |
 | ICO Symbol        | SEHR                               |
-| Coin              | ERC20                              |
+| Network           | Ethereum                              |
 | White Paper       | -                      |
 ____
 ## Synthium_Health
@@ -1903,8 +1904,26 @@ Supply-chain management platform that allows healthcare suppliers and buyers to 
 | Method of Funding | SEED,ICO               |
 | Github Profile    | -          |
 | ICO Symbol        | SHP                    |
-| Coin              | ERC20                  |
+| Network           | Ethereum                  |
 | White Paper       | -          |
+____
+## Tide
+
+[<img src="https://tides.network/assets/logo.png" width="200">](https://tides.network)   
+
+Decentralized health insurance network
+
+
+|                   | Details                 			  |
+|:------------------|:------------------------------------|
+| Category          | Payments, Claims and Other Services |
+| Location          | San Francisco, CA, USA              |
+| Money Raised (M)  | -                       			  |
+| Method of Funding | -                       			  |
+| Github Profile    | -           						  |
+| ICO Symbol        | TIDE                     			  |
+| Network           | Stellar                  			  |
+| White Paper       | -           					 	  |
 ____
 ## Timicoin
 
@@ -1925,7 +1944,7 @@ Health information exchange that will secure health information and deliver pati
 | Method of Funding | -                       |
 | Github Profile    | -           |
 | ICO Symbol        | -                       |
-| Coin              | -                       |
+| Network           | -                       |
 | White Paper       | -           |
 ____
 ## trustedhealth
@@ -1946,7 +1965,7 @@ Platform to connect patients and doctors of rare or life-threatening diseases.
 | Method of Funding | ICO              |
 | Github Profile    | -    |
 | ICO Symbol        | TDH              |
-| Coin              | ERC20            |
+| Network           | Ethereum            |
 | White Paper       | -    |
 ____
 ## Universal_Health_Coin
@@ -1967,7 +1986,7 @@ A privacy focused,, token-based healthcare finance system that utilizes blockcha
 | Method of Funding | ICO                                                                                              |
 | Github Profile    | -                                                                                    |
 | ICO Symbol        | UHC                                                                                              |
-| Coin              | NEO                                                                                              |
+| Network           | NEO                                                                                              |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](http://www.universalhealthcoin.com/wp-content/uploads/UHCWhitePaper-V2.3.pdf) |
 ____
 ## Veris_Foundation
@@ -1988,7 +2007,7 @@ The Veris platform is a blockchain that specifically addresses the expenses in t
 | Method of Funding | ICO                                                                                                                                  |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/VerisFoundation) |
 | ICO Symbol        | VRS                                                                                                                                  |
-| Coin              | NEO                                                                                                                                  |
+| Network           | NEO                                                                                                                                  |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://veris.docsend.com/view/fbqysxf)                                                                           |
 ____
 ## WELL
@@ -2009,7 +2028,7 @@ Mobile healthcare marketplace for telehealth, clinics, personalized service, and
 | Method of Funding | ICO                           |
 | Github Profile    | -                 |
 | ICO Symbol        | WELL                          |
-| Coin              | ERC20                         |
+| Network           | Ethereum                         |
 | White Paper       | -                 |
 ____
 ## Youbase
@@ -2030,7 +2049,7 @@ Enables patients to create and maintain a personal data store on a distributed p
 | Method of Funding | SEED                                                                                                                         |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/YouBase) |
 | ICO Symbol        | -                                                                                                                            |
-| Coin              | -                                                                                                                            |
+| Network           | -                                                                                                                            |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://paper.youbase.io/content/)                                                                        |
 ____
 ## Zenome
@@ -2051,6 +2070,6 @@ A marketplace for genomic data and services
 | Method of Funding | ICO                                                                                                                         |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/zenome) |
 | ICO Symbol        | ZNA                                                                                                                         |
-| Coin              | ERC20                                                                                                                       |
+| Network           | Ethereum                                                                                                                       |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://zenome.io/download/whitepaper.pdf)                                                               |
 ____
