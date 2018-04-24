@@ -1026,7 +1026,7 @@ ____
 
 Mobile platform to aggregate, organize, and share medical records.
 
-*Notable: CEO was on CNBC https://www.cnbc.com/video/2017/12/26/how-we-are-using-blockchain-technology-to-secure-your-health-records-heath-wizz-ceo.html*
+*Notable: CEO appeared on CNBC https://www.cnbc.com/video/2017/12/26/how-we-are-using-blockchain-technology-to-secure-your-health-records-heath-wizz-ceo.html*
 
 
 |                   | Details                                                                                                                                 |
@@ -1620,7 +1620,7 @@ ____
 
 Peer-to-peer network for buying and selling genomic data
 
-*Notable: Cofounded by George Church*
+*Notable: Co-founded by [George Church](https://en.wikipedia.org/wiki/George_M._Church)*
 
 
 |                   | Details                                                                                        |
@@ -1933,7 +1933,7 @@ ____
 
 Health information exchange that will secure health information and deliver patient records only with patient authorization.
 
-*Notable: nan*
+     
 
 
 |                   | Details                 |
