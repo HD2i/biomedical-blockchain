@@ -1457,8 +1457,8 @@ Permissioned blockchain for tracking and tracing regulations to improve the oper
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Category          | Supply Chain                                                                                                                                              |
 | Location          | San Francisco, CA, USA                                                                                                                                         |
-| Money Raised (M)  | -                                                                                                                                                         |
-| Method of Funding | -                                                                                                                                                         |
+| Money Raised (M)  | 12.0                                                                                                                                                         |
+| Method of Funding | SEED                                                                                                                                                         |
 | Github Profile    | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/github.png"/>](https://github.com/chronicled/mediledger)                |
 | ICO Symbol        | -                                                                                                                                                         |
 | Network           | Ethereum                                                                                                                                                    |
