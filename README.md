@@ -1638,29 +1638,7 @@ ____
 ## nwp_solutions
 
 
-[<img src="https://pbs.twimg.com/profile_images/952370533911355392/ALcQsYaV_400x400.jpg" width="200">](https://www.nebulagenomics.io)
-
-
-Peer-to-peer network for buying and selling genomic data
-
-*Notable: Co-founded by [George Church](https://en.wikipedia.org/wiki/George_M._Church)*
-
-
-|                   | Details                                                                                        |
-|:------------------|:-----------------------------------------------------------------------------------------------|
-| Category          | Marketplace                                                                                    |
-| Location          | Boston, Massachusetts, USA                                                                     |
-| Money Raised (M)  | $1.6                                                                                           |
-| Method of Funding | SEED,ICO                                                                                       |
-| Github Profile    | -                                                                                  |
-| ICO Symbol        | -                                                                                              |
-| Network           | Ethereum                                                                                          |
-| White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://www.nebulagenomics.io/assets/documents/NEBULA_whitepaper_v4.52.pdf) |
-____
-## nwp_solutions
-
-
-[<img src="https://www.nwpsolution.com/index.html" width="200">](https://www.nwpsolution.com/)
+[<img src="https://www.nwpsolution.com/images/NWP-logo-black.svg" width="200">](https://www.nwpsolution.com/)
 
 
 Decentrailized health case system
