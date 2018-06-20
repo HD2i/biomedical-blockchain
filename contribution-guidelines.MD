@@ -11,7 +11,6 @@ Most of the information in the database is obtained directly from company materi
 * **Code repository** - only included if the repository contains **non-trivial** code. Examples of trivial code: a token sale contract, forked repos without any commits, etc. 
 * **Technical whitepaper** - only included if it provides details about token economics, the protocol, or implementation details (architecture, software stack, etc.). 
 
-
 ### [Functional Category Descriptions](#functions)
 
 | Category      | Definition  |
