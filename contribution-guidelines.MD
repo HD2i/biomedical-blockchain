@@ -10,6 +10,10 @@ Most of the information in the database is obtained directly from company materi
 * **Industry Focus** - choose the most appropriate vertical from the [industry focus list](#industry-focus)
 * **Code repository** - only included if the repository contains **non-trivial** code. Examples of trivial code: a token sale contract, forked repos without any commits, etc. 
 * **Technical whitepaper** - only included if it provides details about token economics, the protocol, or implementation details (architecture, software stack, etc.). 
+* **Funding** - should be specified in USD
+  * Private/Institutional Investment - source total funding from [Crunchbase](https://www.crunchbase.com)
+  * ICO/Token Sale - soucrce ICO/token sale information from [ICO Reports](https://icoreports.com/)
+
 
 ### Functional Category Descriptions
 
