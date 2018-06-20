@@ -9,6 +9,7 @@ Most of the information in the database is obtained directly from company materi
 * **Functional Focus** - choose the most appropriate category from the [functional category table](#functional-category-descriptions)      
 * **Industry Focus** - choose the most appropriate vertical from the [industry focus list](#industry-focus)
 * **Code repository** - only included if the repository contains **non-trivial** code. Examples of trivial code: a token sale contract, forked repos without any commits, etc. 
+* **Prototype/Product** - the URL of a functional prototype or launched product
 * **Technical whitepaper** - only included if it provides details about token economics, the protocol, or implementation details (architecture, software stack, etc.). 
 * **Funding** - should be specified in USD
   * Private/Institutional Investment - source total funding from [Crunchbase](https://www.crunchbase.com)
