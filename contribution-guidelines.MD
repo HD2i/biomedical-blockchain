@@ -7,11 +7,11 @@ Most of the information in the database is obtained directly from company materi
   * Good: _Quality control and assurance of pharmaceutical products_
   * Bad: _Using proprietary technology, the best science, and advanced AI techniques, the Eterly app acts like a personal coach--custom designing and adjusting, in real time--a health and fitness routine mapped to precisely fit each user’s specific needs. The project has been inspired, developed, and funded by longevity experts._ 
 * **Function** - choose 1 from [functional category table](#functional-category-descriptions)      
-* **Industry** - choose 1 from industry table below     
+* **Industry** - choose 1 from [industry focus table](industry-focus)
 * **Code repository** - only included if the repository contains **non-trivial** code. Examples of trivial code: a token sale contract, forked repos without any commits, etc. 
 * **Technical whitepaper** - only included if it provides details about token economics, the protocol, or implementation details (architecture, software stack, etc.). 
 
-### [Functional Category Descriptions]
+### Functional Category Descriptions
 
 | Category      | Definition  |
 | --------------|-------------|
@@ -26,7 +26,7 @@ Most of the information in the database is obtained directly from company materi
 | **Governance**                      | Includes projects that facilitate self-organization, self-regulation, and blockchain-based voting rights |
 
 
-### Industry 
+### Industry Focus
 * Personal Health Records
 * Genomics
 * Digital Medicine / Clinical Care
