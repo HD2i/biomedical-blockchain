@@ -6,8 +6,8 @@ Most of the information in the database is obtained directly from company materi
 * **Description** - Subjective one-sentence summary of the company (25 words or fewer). Avoid buzz-words and marketing phrases like “state-of-the-art”, “revolutionary”, etc.
   * Good: _Quality control and assurance of pharmaceutical products_
   * Bad: _Using proprietary technology, the best science, and advanced AI techniques, the Eterly app acts like a personal coach--custom designing and adjusting, in real time--a health and fitness routine mapped to precisely fit each user’s specific needs. The project has been inspired, developed, and funded by longevity experts._ 
-* **Function** - choose the most appropriate category from the [functional category table](#functional-category-descriptions)      
-* **Industry** - choose the most appropriate vertical from the [industry focus list](#industry-focus)
+* **Functional Focus** - choose the most appropriate category from the [functional category table](#functional-category-descriptions)      
+* **Industry Focus** - choose the most appropriate vertical from the [industry focus list](#industry-focus)
 * **Code repository** - only included if the repository contains **non-trivial** code. Examples of trivial code: a token sale contract, forked repos without any commits, etc. 
 * **Technical whitepaper** - only included if it provides details about token economics, the protocol, or implementation details (architecture, software stack, etc.). 
 
