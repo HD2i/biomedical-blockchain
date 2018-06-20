@@ -1,12 +1,12 @@
 ## Guidelines for contributing
 
-Most of the information in the database is obtained directly from company materials. However there are a handful of data elements which require the judgement of the curator. Below we describe those fields and provide rough guidelines to help maintain the consistency of the resource. 
+Most of the information in the database is obtained directly from company materials. However there are a handful of data elements which require the judgement of the curator. Below we describe those fields and provide rough guidelines to help maintain consistency. 
 
 
 * **Description** - Subjective one-sentence summary of the company (25 words or fewer). Avoid buzz-words and marketing phrases like “state-of-the-art”, “revolutionary”, etc.
   * Good: _Quality control and assurance of pharmaceutical products_
   * Bad: _Using proprietary technology, the best science, and advanced AI techniques, the Eterly app acts like a personal coach--custom designing and adjusting, in real time--a health and fitness routine mapped to precisely fit each user’s specific needs. The project has been inspired, developed, and funded by longevity experts._ 
-* **Function** - choose 1 from [functional category table](#functions)      
+* **Function** - choose 1 from [functional category table](#functional-category-descriptions)      
 * **Industry** - choose 1 from industry table below     
 * **Code repository** - only included if the repository contains **non-trivial** code. Examples of trivial code: a token sale contract, forked repos without any commits, etc. 
 * **Technical whitepaper** - only included if it provides details about token economics, the protocol, or implementation details (architecture, software stack, etc.). 
