@@ -13,23 +13,21 @@ Most of the information in the database is obtained directly from company materi
 * **Technical whitepaper** - only included if it provides details about token economics, the protocol, or implementation details (architecture, software stack, etc.). 
 * **Funding** - should be specified in USD
   * Private/Institutional Investment - source total funding from [Crunchbase](https://www.crunchbase.com)
-  * ICO/Token Sale - soucrce ICO/token sale information from [ICO Reports](https://icoreports.com/)
+  * ICO/Token Sale - source ICO/token sale information from [ICO Reports](https://icoreports.com/)
 
 
 ### Functional Category Descriptions
 
 | Category      | Definition  |
 | --------------|-------------|
-| **Supply Chain Management**         | Organizations who use the protocol to manage supply chain flows |
+| **Advisory, Dev Shop, Consortium**  | Includes organizations that serve as advisors, consultancies, and dev-shops |
 | **Data & Asset Management**         | This could include patient data, health systems operations data, and more. |
-| **Identity**                        | Including but not limited to digital identities, passports, IDs, life-event certificates |
-| **Marketplace**                     | Platforms that facilitate trade between entities, such as incentivized data sharing |
-| **Advisory, Dev Shop, Consortium**  | Includes organizations that serve as advisors, consultancies and dev-shops |
-| **Interoperability**                | Systems related to data integration |
-| **Payments and Claims**             | Platforms that facilitate the payment and claims of assets |
-| **Data Science & Analytics**        | Projects that extract knowledge or insights from data in various forms, either structured or unstructured |
+| **Marketplace**                     | Platforms that facilitate trade between entities, such as incentivized data sharing. NOTE: If deciding between Data & Asset Management and Marketplace, choose Marketplace if the product has an exchange feature. |
 | **Governance**                      | Includes projects that facilitate self-organization, self-regulation, and blockchain-based voting rights |
-
+| **Data Science & Analytics**        | Projects that extract knowledge or insights from data in various forms, either structured or unstructured |
+| **Identity**                        | Including but not limited to digital identities, passports, IDs, life-event certificates |
+| **Payments and Claims**             | Platforms that facilitate the payment and claims of assets |
+| **Supply Chain Management**         | Organizations using the protocol to manage supply chain flows |
 
 ### Industry Focus
 * Personal Health Records
@@ -40,4 +38,4 @@ Most of the information in the database is obtained directly from company materi
 * Medical Device
 * Dental
 * Fitness / Wellness
-* General / Other
+* General / Other (e.g., this tag is well-suited for a project that might serve industries including healthcare and beyond, like Blockstack, Computable Labs or OpenMined)
