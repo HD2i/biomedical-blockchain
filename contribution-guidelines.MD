@@ -1,3 +1,5 @@
+## Welcome
+
 We encourage you to contribute to this resource by adding new initiatives, updating outdated information, correcting errors, or proposing new metrics you believe are useful to include.
 
 We ask that you try your best to remain objective when making modifications and additions to the database. 
