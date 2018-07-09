@@ -28,12 +28,13 @@ Most of the information in the database is obtained directly from company materi
 | **Supply Chain Management**         | Organizations using the protocol to manage supply chain flows |
 
 ### Industry Focus
-* Dental
-* Digital Medicine / Clinical Care
+* Digital Medicine / Care Delivery
+* Blockchain Infrastructure (e.g., this tag is well-suited for a project that might serve industries including healthcare and beyond, like Blockstack, Computable Labs or OpenMined)
 * Fitness / Wellness
-* General / Other (e.g., this tag is well-suited for a project that might serve industries including healthcare and beyond, like Blockstack, Computable Labs or OpenMined)
+* Healthcare - general / unspecified 
 * Genomics
 * Medical Device
-* Personal Health Records
+* Personal Health Records (e.g., all projects that focus on personal health data management and incentive systems)
 * Pharmaceuticals
 * Research and Clinical Trials
+* Healthcare Operations (e.g., hospital system management, revenue and billing management)
