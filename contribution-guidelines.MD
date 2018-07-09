@@ -34,7 +34,7 @@ Most of the information in the database is obtained directly from company materi
 * Healthcare - general / unspecified 
 * Genomics
 * Medical Device
-* Personal Health Records (e.g., all projects that focus on personal health data management and incentive systems)
+* Personal Health Records (e.g., all projects that focus on personal health data management)
 * Pharmaceuticals
 * Research and Clinical Trials
 * Healthcare Operations (e.g., hospital system management, revenue and billing management)
