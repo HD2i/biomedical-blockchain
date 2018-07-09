@@ -1,3 +1,7 @@
+We encourage you to contribute to this resource by adding new initiatives, updating outdated information, correcting errors, or proposing new metrics you believe are useful to include.
+
+We ask that you try your best to remain objective when making modifications and additions to the database. 
+
 ## Guidelines for contributing
 
 Most of the information in the database is obtained directly from company materials. However there are a handful of data elements which require the judgement of the curator. Below we describe those fields and provide rough guidelines to help maintain consistency. 
