@@ -3,8 +3,6 @@ _UPDATE: On July 25th, 2018, in a combined effort with Elektra Labs, we released
 _In  parallel, we also released an interactive version of this database: [Healthcare & Biomedical Blockchains](https://db.biomedicalblockchain.org/).  This site will be updated going forward and has many extra features, including live infographics, and an easier project submission process.  We hope you continue to find it useful!_
 
 
-
-
 # Biomedical Blockchain Initiatives
 
 
@@ -12,7 +10,7 @@ _In  parallel, we also released an interactive version of this database: [Health
 [![map](biomedical-blockchain-map.png)](https://api.mapbox.com/styles/v1/zimmeee/cjfwus7rf1dbb2rmi78pn1ujw.html?fresh=true&title=true&access_token=pk.eyJ1IjoiemltbWVlZSIsImEiOiJjaXA2Nnl1M2owMDNveWJrbzB0bmFmcW9zIn0.3UHAx5MArJaWYsTCYhkVSw#1.7/31.444924/6.387816/0)
 
 There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. We have created this repository to map all of the biomedical blockchain initiatives worldwide in order to track the evolution of this emerging technology.
-<!-- 
+
 Check out [this blog post](http://hd2i.org/blog/2018/04/05/mapping-the-biomedical-blockchain.html) for a complete description of our approach and methodology. [Contributions are welcome](https://github.com/HD2i/biomedical-blockchain/blob/master/CONTRIBUTING.md) and encouraged.
 
 ## Legend
@@ -2101,4 +2099,3 @@ A marketplace for genomic data and services
 | Network           | Ethereum                                                                                                                       |
 | White Paper       | [<img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/24/file-o.png"/>](https://zenome.io/download/whitepaper.pdf)                                                               |
 ____
- -->
