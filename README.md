@@ -2,6 +2,8 @@ _UPDATE: On July 25th, 2018, in a combined effort with Elektra Labs, we released
 
 _In  parallel, we also released an interactive version of this database, [Healthcare & Biomedical Blockchains](https://db.biomedicalblockchain.org/).  This site will be updated going forward and has many extra features, including live infographics, and an easier project submission process.  We hope you continue to find it useful!_
 
+_Lastly, we now have an official website of our own at [Center For Biomedical Blockchain Research](http://biomedicalblockchain.org/)._
+
 
 # Biomedical Blockchain Initiatives
 
