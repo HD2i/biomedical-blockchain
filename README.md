@@ -1,6 +1,6 @@
-_UPDATE: On July 25th, 2018, in a combined effort with Elektra Labs, we released a piece in STAT News about analysis conducted on these projects [STAT News July 2018 Op-Ed](https://www.statnews.com/2018/07/25/blockchains-biomedicine-health-care-buyer-be-informed/)._
+_UPDATE: On July 25th, 2018, in a combined effort with Elektra Labs, we released a piece in STAT News about analysis conducted on these projects, [STAT News July 2018 Op-Ed](https://www.statnews.com/2018/07/25/blockchains-biomedicine-health-care-buyer-be-informed/)._
 
-_In  parallel, we also released an interactive version of this database: [Healthcare & Biomedical Blockchains](https://db.biomedicalblockchain.org/).  This site will be updated going forward and has many extra features, including live infographics, and an easier project submission process.  We hope you continue to find it useful!_
+_In  parallel, we also released an interactive version of this database, [Healthcare & Biomedical Blockchains](https://db.biomedicalblockchain.org/).  This site will be updated going forward and has many extra features, including live infographics, and an easier project submission process.  We hope you continue to find it useful!_
 
 
 # Biomedical Blockchain Initiatives
